@@ -1,0 +1,5005 @@
+{
+    "data": [
+        {
+            "name": "赢家法则",
+            "author": "博多·舍费尔燕环",
+            "publica_date": "2019-06-01",
+            "publishing_group": "现代出版社",
+            "price_n": "¥21.99",
+            "price_r": "¥29.99",
+            "price_s": "7.3折",
+            "book_img": "http://img3m3.ddimg.cn/14/1/1901129783-1_l_1.jpg"
+        },
+        {
+            "name": "断舍离",
+            "author": "山下英子",
+            "publica_date": "2019-01-01",
+            "publishing_group": "湖南文艺出版社",
+            "price_n": "¥9.99",
+            "price_r": "¥23.99",
+            "price_s": "4.2折",
+            "book_img": "http://img3m0.ddimg.cn/4/17/1901119180-1_l_2.jpg"
+        },
+        {
+            "name": "情绪断舍离：清零负能量，激活高效人生的7大关键！",
+            "author": "加勒特·克莱默",
+            "publica_date": "2019-04-01",
+            "publishing_group": "中国友谊出版公司",
+            "price_n": "¥7.99",
+            "price_r": "¥19.99",
+            "price_s": "4.0折",
+            "book_img": "http://img3m9.ddimg.cn/78/11/1901113809-1_l_2.jpg"
+        },
+        {
+            "name": "副业赚钱(人人可复制的爆款赚钱课，副业也能月入过万)",
+            "author": "Angie",
+            "publica_date": "2019-06-01",
+            "publishing_group": "中国友谊出版公司",
+            "price_n": "¥16.99",
+            "price_r": "¥31.99",
+            "price_s": "5.3折",
+            "book_img": "http://img3m5.ddimg.cn/15/23/1901128695-1_l_2.jpg"
+        },
+        {
+            "name": "本能：为什么我们管不住自己？",
+            "author": "特里·伯纳姆杰伊·费伦",
+            "publica_date": "2019-05-01",
+            "publishing_group": "中信出版集团股份有限公司",
+            "price_n": "¥2.00",
+            "price_r": "¥35.40",
+            "price_s": "0.6折",
+            "book_img": "http://img3m0.ddimg.cn/17/15/1901129390-1_l_4.jpg"
+        },
+        {
+            "name": "认知天性：让学习轻而易举的心理学规律",
+            "author": "彼得·C布朗亨利·L罗迪格三世马克·A麦克丹尼尔",
+            "publica_date": "2018-09-01",
+            "publishing_group": "中信出版集团股份有限公司",
+            "price_n": "¥12.99",
+            "price_r": "¥34.80",
+            "price_s": "3.7折",
+            "book_img": "http://img3m3.ddimg.cn/5/29/1901104133-1_l_3.jpg"
+        },
+        {
+            "name": "你可以成为一个有趣的人",
+            "author": "苑哲",
+            "publica_date": "2019-07-01",
+            "publishing_group": "江苏凤凰文艺出版社",
+            "price_n": "¥0.99",
+            "price_r": "¥11.99",
+            "price_s": "0.8折",
+            "book_img": "http://img3m3.ddimg.cn/65/12/1901128943-1_l_2.jpg"
+        },
+        {
+            "name": "情商(全六册)",
+            "author": "丹尼尔·戈尔曼",
+            "publica_date": "2018-05-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥29.99",
+            "price_r": "¥380.00",
+            "price_s": "0.8折",
+            "book_img": "http://img3m4.ddimg.cn/20/6/1901070884-1_l_2.jpg"
+        },
+        {
+            "name": "掌控情绪，从来都不靠忍",
+            "author": "剑圣喵大师",
+            "publica_date": "2018-09-12",
+            "publishing_group": "长江文艺出版社",
+            "price_n": "¥9.99",
+            "price_r": "¥17.99",
+            "price_s": "5.6折",
+            "book_img": "http://img3m8.ddimg.cn/49/32/1901113978-1_l_3.jpg"
+        },
+        {
+            "name": "【李现推荐】深夜加油站遇见苏格拉底：和平勇士之道",
+            "author": "米尔曼",
+            "publica_date": "2013-04-01",
+            "publishing_group": "浙江人民出版社",
+            "price_n": "¥27.02",
+            "price_r": "¥38.61",
+            "price_s": "7.0折",
+            "book_img": "http://img3m5.ddimg.cn/8/19/1901136905-1_l_1.jpg"
+        },
+        {
+            "name": "简单：应对复杂世界的高级思维",
+            "author": "木鱼",
+            "publica_date": "",
+            "publishing_group": "中国华侨出版社",
+            "price_n": "¥6.23",
+            "price_r": "¥9.90",
+            "price_s": "6.3折",
+            "book_img": "http://img3m7.ddimg.cn/28/35/1901135737-1_l_2.jpg"
+        },
+        {
+            "name": "高效阅读",
+            "author": "渡边康弘",
+            "publica_date": "2017-11-13",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥4.99",
+            "price_r": "¥38.00",
+            "price_s": "1.3折",
+            "book_img": "http://img3m5.ddimg.cn/52/31/1900761145-1_l_2.jpg"
+        },
+        {
+            "name": "终身学习",
+            "author": "丹·苏利文凯瑟琳·野村吴果锦",
+            "publica_date": "2018-05-01",
+            "publishing_group": "湖北教育出版社",
+            "price_n": "¥7.20",
+            "price_r": "¥48.00",
+            "price_s": "1.5折",
+            "book_img": "http://img3m7.ddimg.cn/98/14/1901068487-1_l_2.jpg"
+        },
+        {
+            "name": "有效学习",
+            "author": "乌尔里希·伯泽尔",
+            "publica_date": "2018-02-01",
+            "publishing_group": "中信出版集团股份有限公司",
+            "price_n": "¥12.00",
+            "price_r": "¥49.00",
+            "price_s": "2.4折",
+            "book_img": "http://img3m4.ddimg.cn/5/5/1900778324-1_l_2.jpg"
+        },
+        {
+            "name": "别人怎么对你，都是你教的",
+            "author": "黄启团",
+            "publica_date": "",
+            "publishing_group": "中信出版集团股份有限公司",
+            "price_n": "¥27.99",
+            "price_r": "¥40.80",
+            "price_s": "6.9折",
+            "book_img": "http://img3m1.ddimg.cn/22/10/1901133751-1_l_1.jpg"
+        },
+        {
+            "name": "好关系是麻烦出来的",
+            "author": "格子珊",
+            "publica_date": "2019-04-01",
+            "publishing_group": "北方文艺出版社",
+            "price_n": "¥12.80",
+            "price_r": "¥16.80",
+            "price_s": "7.6折",
+            "book_img": "http://img3m2.ddimg.cn/10/5/1901128492-1_l_2.jpg"
+        },
+        {
+            "name": "情商是什么？：关于生活智慧的44个故事",
+            "author": "李筱懿",
+            "publica_date": "2018-01-01",
+            "publishing_group": "浙江文艺出版社",
+            "price_n": "¥9.99",
+            "price_r": "¥39.00",
+            "price_s": "2.6折",
+            "book_img": "http://img3m8.ddimg.cn/9/7/1900770408-1_l_3.jpg"
+        },
+        {
+            "name": "自律力：你有多自律，就有多自由",
+            "author": "小野",
+            "publica_date": "2017-07-01",
+            "publishing_group": "北京联合出版有限公司",
+            "price_n": "¥1.99",
+            "price_r": "¥42.00",
+            "price_s": "0.5折",
+            "book_img": "http://img3m8.ddimg.cn/19/36/1900699138-1_l_2.jpg"
+        },
+        {
+            "name": "精进2：解锁万物的心智进化法(一箭贯穿心智本质，重启自我提升按...",
+            "author": "采铜",
+            "publica_date": "2019-06-01",
+            "publishing_group": "江苏凤凰文艺出版社",
+            "price_n": "¥14.99",
+            "price_r": "¥26.40",
+            "price_s": "5.7折",
+            "book_img": "http://img3m6.ddimg.cn/5/34/1901127596-1_l_2.jpg"
+        },
+        {
+            "name": "如何有效阅读一本书：超实用笔记读书法",
+            "author": "奥野宣之",
+            "publica_date": "2016-06-01",
+            "publishing_group": "江西人民出版社",
+            "price_n": "¥8.64",
+            "price_r": "¥36.00",
+            "price_s": "2.4折",
+            "book_img": "http://img3m6.ddimg.cn/33/34/1900738356-1_l_2.jpg"
+        },
+        {
+            "name": "孙子兵法三十六计智谋全解",
+            "author": "水中鱼雅瑟",
+            "publica_date": "2010-10-01",
+            "publishing_group": "企业管理出版社",
+            "price_n": "¥0.99",
+            "price_r": "¥10.00",
+            "price_s": "1.0折",
+            "book_img": "http://img3m0.ddimg.cn/65/2/1900279820-1_l_1.jpg"
+        },
+        {
+            "name": "你要活成一束光",
+            "author": "李月亮北辰",
+            "publica_date": "",
+            "publishing_group": "青岛出版社",
+            "price_n": "¥19.00",
+            "price_r": "¥19.00",
+            "price_s": "10.0折",
+            "book_img": "http://img3m4.ddimg.cn/68/2/1901136074-1_l_1.jpg"
+        },
+        {
+            "name": "有见识的姑娘，活得更高级",
+            "author": "Jenny乔",
+            "publica_date": "",
+            "publishing_group": "天津人民出版社",
+            "price_n": "¥14.99",
+            "price_r": "¥14.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m8.ddimg.cn/6/32/1901104728-1_l_1.jpg"
+        },
+        {
+            "name": "我每天只工作3小时：押井守的角色学",
+            "author": "押井守",
+            "publica_date": "",
+            "publishing_group": "四川人民出版社",
+            "price_n": "¥14.99",
+            "price_r": "¥49.80",
+            "price_s": "3.0折",
+            "book_img": "http://img3m8.ddimg.cn/4/33/1901094628-1_l_1.jpg"
+        },
+        {
+            "name": "客户的游艇在哪里：华尔街奇谈(典藏版)",
+            "author": "小弗雷德·施韦德FredSchwed",
+            "publica_date": "",
+            "publishing_group": "机械工业出版社",
+            "price_n": "¥25.35",
+            "price_r": "¥39.00",
+            "price_s": "6.5折",
+            "book_img": "http://img3m6.ddimg.cn/0/34/1901092446-1_l_1.jpg"
+        },
+        {
+            "name": "知识变现",
+            "author": "萧秋水剽悍一只猫",
+            "publica_date": "2017-11-01",
+            "publishing_group": "文化发展出版社",
+            "price_n": "¥3.99",
+            "price_r": "¥42.00",
+            "price_s": "1.0折",
+            "book_img": "http://img3m4.ddimg.cn/90/13/1900748214-1_l_1.jpg"
+        },
+        {
+            "name": "另一种选择+向前一步(套装共2册)",
+            "author": "谢丽尔·桑德伯格亚当·格兰特",
+            "publica_date": "2017-09-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥18.99",
+            "price_r": "¥52.80",
+            "price_s": "3.6折",
+            "book_img": "http://img3m3.ddimg.cn/53/34/1900728773-1_l_2.jpg"
+        },
+        {
+            "name": "认知突围：做复杂时代的明白人",
+            "author": "蔡垒磊",
+            "publica_date": "2017-09-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥9.99",
+            "price_r": "¥39.00",
+            "price_s": "2.6折",
+            "book_img": "http://img3m1.ddimg.cn/13/12/1900712101-1_l_1.jpg"
+        },
+        {
+            "name": "九型人格：职场高品质沟通的艺术",
+            "author": "海伦·帕尔默",
+            "publica_date": "2016-07-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥11.99",
+            "price_r": "¥39.80",
+            "price_s": "3.0折",
+            "book_img": "http://img3m4.ddimg.cn/26/36/1900645784-1_l_3.jpg"
+        },
+        {
+            "name": "只想和你过好这一生",
+            "author": "武志红朱建军李子勋胡慎之韩湘景",
+            "publica_date": "2016-10-01",
+            "publishing_group": "长江文艺出版社",
+            "price_n": "¥12.87",
+            "price_r": "¥40.00",
+            "price_s": "3.2折",
+            "book_img": "http://img3m2.ddimg.cn/31/35/1900625692-1_l_3.jpg"
+        },
+        {
+            "name": "你就是想得太多",
+            "author": "檀金",
+            "publica_date": "2015-11-01",
+            "publishing_group": "民主与建设出版社",
+            "price_n": "¥1.99",
+            "price_r": "¥35.00",
+            "price_s": "0.6折",
+            "book_img": "http://img3m7.ddimg.cn/76/27/1900562377-1_l_2.jpg"
+        },
+        {
+            "name": "我心温柔，自有力量",
+            "author": "张德芬",
+            "publica_date": "2016-05-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥2.99",
+            "price_r": "¥38.00",
+            "price_s": "0.8折",
+            "book_img": "http://img3m1.ddimg.cn/79/13/1900557331-1_l_2.jpg"
+        },
+        {
+            "name": "新狼道全集",
+            "author": "王贵水",
+            "publica_date": "2011-07-01",
+            "publishing_group": "北京工业大学出版社",
+            "price_n": "¥2.50",
+            "price_r": "¥25.00",
+            "price_s": "1.0折",
+            "book_img": "http://img3m4.ddimg.cn/55/30/1900313074-1_l_5.jpg"
+        },
+        {
+            "name": "高效能人士的11个习惯",
+            "author": "杨晖",
+            "publica_date": "2013-02-01",
+            "publishing_group": "北京工业大学出版社",
+            "price_n": "¥15.54",
+            "price_r": "¥28.00",
+            "price_s": "5.6折",
+            "book_img": "http://img3m3.ddimg.cn/33/20/1900312953-1_l_5.jpg"
+        },
+        {
+            "name": "人脉关系课",
+            "author": "曾仕强刘君政",
+            "publica_date": "2011-06-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥0.99",
+            "price_r": "¥35.00",
+            "price_s": "0.3折",
+            "book_img": "http://img3m7.ddimg.cn/24/6/1900077027-1_l_1.jpg"
+        },
+        {
+            "name": "只管去做",
+            "author": "邹小强",
+            "publica_date": "2018-01-01",
+            "publishing_group": "湖南文艺出版社",
+            "price_n": "¥8.99",
+            "price_r": "¥19.99",
+            "price_s": "4.5折",
+            "book_img": "http://img3m8.ddimg.cn/56/22/1901123588-1_l_2.jpg"
+        },
+        {
+            "name": "人性的弱点全集",
+            "author": "戴尔·卡耐基",
+            "publica_date": "2018-04-01",
+            "publishing_group": "哈尔滨出版社",
+            "price_n": "¥1.00",
+            "price_r": "¥1.00",
+            "price_s": "10.0折",
+            "book_img": "http://img3m3.ddimg.cn/31/13/1901113663-1_l_3.jpg"
+        },
+        {
+            "name": "日事日清工作法",
+            "author": "马伦",
+            "publica_date": "2018-11-01",
+            "publishing_group": "当代世界出版社",
+            "price_n": "¥3.99",
+            "price_r": "¥13.99",
+            "price_s": "2.9折",
+            "book_img": "http://img3m1.ddimg.cn/53/13/1901107151-1_l_4.jpg"
+        },
+        {
+            "name": "会说话的人运气都不会太差",
+            "author": "矢野香",
+            "publica_date": "2018-09-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥9.99",
+            "price_r": "¥42.00",
+            "price_s": "2.4折",
+            "book_img": "http://img3m2.ddimg.cn/3/27/1901093142-1_l_2.jpg"
+        },
+        {
+            "name": "人性的弱点",
+            "author": "戴尔·卡耐基",
+            "publica_date": "2018-04-01",
+            "publishing_group": "新华出版社",
+            "price_n": "¥17.99",
+            "price_r": "¥35.80",
+            "price_s": "5.0折",
+            "book_img": "http://img3m2.ddimg.cn/42/2/1901085162-1_l_1.jpg"
+        },
+        {
+            "name": "如何控制负面情绪：风行美国60年的情绪自控力课程",
+            "author": "约翰·A.辛德勒",
+            "publica_date": "2018-06-01",
+            "publishing_group": "中国友谊出版公司",
+            "price_n": "¥5.99",
+            "price_r": "¥42.00",
+            "price_s": "1.4折",
+            "book_img": "http://img3m4.ddimg.cn/55/23/1901054584-1_l_2.jpg"
+        },
+        {
+            "name": "为何越爱越孤独（升级版）",
+            "author": "武志红",
+            "publica_date": "2018-03-08",
+            "publishing_group": "中国华侨出版社",
+            "price_n": "¥8.99",
+            "price_r": "¥45.00",
+            "price_s": "2.0折",
+            "book_img": "http://img3m1.ddimg.cn/23/5/1900974461-1_l_2.jpg"
+        },
+        {
+            "name": "看完就用的思维导图",
+            "author": "刘艳",
+            "publica_date": "",
+            "publishing_group": "中信出版集团股份有限公司",
+            "price_n": "¥12.25",
+            "price_r": "¥29.40",
+            "price_s": "4.2折",
+            "book_img": "http://img3m6.ddimg.cn/95/6/1901136596-1_l_1.jpg"
+        },
+        {
+            "name": "人生护城河：如何建立自己真正的优势",
+            "author": "张辉@辉哥奇谭",
+            "publica_date": "",
+            "publishing_group": "人民邮电出版社",
+            "price_n": "¥26.99",
+            "price_r": "¥26.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m8.ddimg.cn/63/22/1901136168-1_l_1.jpg"
+        },
+        {
+            "name": "深阅读：信息爆炸时代我们如何读书",
+            "author": "斋藤孝",
+            "publica_date": "2016-09-01",
+            "publishing_group": "江西人民出版社",
+            "price_n": "¥8.99",
+            "price_r": "¥36.00",
+            "price_s": "2.5折",
+            "book_img": "http://img3m0.ddimg.cn/37/1/1900738360-1_l_1.jpg"
+        },
+        {
+            "name": "中国式情与爱",
+            "author": "武志红青音",
+            "publica_date": "2017-06-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥0.99",
+            "price_r": "¥48.00",
+            "price_s": "0.2折",
+            "book_img": "http://img3m3.ddimg.cn/2/32/1900728623-1_l_2.jpg"
+        },
+        {
+            "name": "魔鬼搭讪学：这样追女孩真的很容易",
+            "author": "阮琦",
+            "publica_date": "2016-01-01",
+            "publishing_group": "长江文艺出版社",
+            "price_n": "¥9.99",
+            "price_r": "¥32.00",
+            "price_s": "3.1折",
+            "book_img": "http://img3m4.ddimg.cn/53/15/1900569284-1_l_1.jpg"
+        },
+        {
+            "name": "有钱人和你想的不一样",
+            "author": "王空空",
+            "publica_date": "2016-03-01",
+            "publishing_group": "",
+            "price_n": "¥2.98",
+            "price_r": "¥10.00",
+            "price_s": "3.0折",
+            "book_img": "http://img3m1.ddimg.cn/48/32/1900561161-1_l_4.jpg"
+        },
+        {
+            "name": "逆境成长：坚韧人格养成手册",
+            "author": "小乔治·S.埃弗利道格拉斯·A.斯特劳斯丹尼斯·K.麦科马克",
+            "publica_date": "2018-03-01",
+            "publishing_group": "江西人民出版社",
+            "price_n": "¥22.80",
+            "price_r": "¥22.80",
+            "price_s": "10.0折",
+            "book_img": "http://img3m2.ddimg.cn/94/35/1901105212-1_l_3.jpg"
+        },
+        {
+            "name": "愿我们的善良，都带点锋芒",
+            "author": "安颜",
+            "publica_date": "2018-10-01",
+            "publishing_group": "北方文艺出版社",
+            "price_n": "¥15.99",
+            "price_r": "¥15.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m9.ddimg.cn/20/18/1901100089-1_l_2.jpg"
+        },
+        {
+            "name": "为什么精英都有超强专注力",
+            "author": "西多昌规李汉庭",
+            "publica_date": "2018-05-01",
+            "publishing_group": "湖南文艺出版社",
+            "price_n": "¥17.99",
+            "price_r": "¥45.00",
+            "price_s": "4.0折",
+            "book_img": "http://img3m4.ddimg.cn/90/26/1901092734-1_l_2.jpg"
+        },
+        {
+            "name": "5秒法则",
+            "author": "梅尔·罗宾斯",
+            "publica_date": "2018-07-01",
+            "publishing_group": "湖南文艺出版社",
+            "price_n": "¥19.99",
+            "price_r": "¥45.00",
+            "price_s": "4.4折",
+            "book_img": "http://img3m2.ddimg.cn/47/4/1901091602-1_l_2.jpg"
+        },
+        {
+            "name": "高效PDCA工作术",
+            "author": "冨田和成",
+            "publica_date": "2018-04-01",
+            "publishing_group": "湖南文艺出版社",
+            "price_n": "¥19.99",
+            "price_r": "¥45.00",
+            "price_s": "4.4折",
+            "book_img": "http://img3m7.ddimg.cn/81/18/1901074707-1_l_1.jpg"
+        },
+        {
+            "name": "让你在公司显得很能干的52种方法",
+            "author": "罗斯·麦卡蒙",
+            "publica_date": "",
+            "publishing_group": "中信出版集团股份有限公司",
+            "price_n": "¥25.20",
+            "price_r": "¥25.20",
+            "price_s": "10.0折",
+            "book_img": "http://img3m4.ddimg.cn/61/14/1901134384-1_l_1.jpg"
+        },
+        {
+            "name": "一日之计：精英们的清晨日课",
+            "author": "本杰明·斯帕迈克尔·赞德",
+            "publica_date": "",
+            "publishing_group": "中信出版集团股份有限公司",
+            "price_n": "¥20.99",
+            "price_r": "¥31.20",
+            "price_s": "6.7折",
+            "book_img": "http://img3m8.ddimg.cn/35/33/1901129408-1_l_1.jpg"
+        },
+        {
+            "name": "你的误区",
+            "author": "韦恩·戴尔林丽冠",
+            "publica_date": "2019-02-01",
+            "publishing_group": "湖南文艺出版社",
+            "price_n": "¥19.99",
+            "price_r": "¥19.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m6.ddimg.cn/52/34/1901128336-1_l_2.jpg"
+        },
+        {
+            "name": "女性自我投资(套装共4册)",
+            "author": "瑞秋·布拉森",
+            "publica_date": "",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥88.99",
+            "price_r": "¥126.99",
+            "price_s": "7.0折",
+            "book_img": "http://img3m7.ddimg.cn/27/31/1901112867-1_l_1.jpg"
+        },
+        {
+            "name": "练习的心态：如何培养耐心、专注和自律",
+            "author": "托马斯M.斯特纳ThomasM.Sterner",
+            "publica_date": "2016-11-01",
+            "publishing_group": "机械工业出版社",
+            "price_n": "¥12.99",
+            "price_r": "¥35.00",
+            "price_s": "3.7折",
+            "book_img": "http://img3m9.ddimg.cn/59/3/1900655519-1_l_2.jpg"
+        },
+        {
+            "name": "别在吃苦的年纪选择安逸",
+            "author": "景天",
+            "publica_date": "2016-08-01",
+            "publishing_group": "江西教育出版社",
+            "price_n": "¥0.99",
+            "price_r": "¥35.00",
+            "price_s": "0.3折",
+            "book_img": "http://img3m6.ddimg.cn/78/29/1900595346-1_l_2.jpg"
+        },
+        {
+            "name": "李嘉诚：成功没有偶然",
+            "author": "李永宁",
+            "publica_date": "2014-03-01",
+            "publishing_group": "中国华侨出版社",
+            "price_n": "¥3.99",
+            "price_r": "¥39.80",
+            "price_s": "1.0折",
+            "book_img": "http://img3m3.ddimg.cn/96/34/1900554873-1_l_2.jpg"
+        },
+        {
+            "name": "即兴演讲：掌控人生关键时刻",
+            "author": "朱迪思·汉弗莱JudithHumphrey",
+            "publica_date": "2018-06-01",
+            "publishing_group": "人民邮电出版社",
+            "price_n": "¥7.99",
+            "price_r": "¥49.00",
+            "price_s": "1.6折",
+            "book_img": "http://img3m4.ddimg.cn/22/2/1901069104-1_l_3.jpg"
+        },
+        {
+            "name": "高情商聊天术",
+            "author": "张超",
+            "publica_date": "2017-11-01",
+            "publishing_group": "文化发展出版社",
+            "price_n": "¥5.99",
+            "price_r": "¥36.80",
+            "price_s": "1.6折",
+            "book_img": "http://img3m1.ddimg.cn/90/24/1900751481-1_l_3.jpg"
+        },
+        {
+            "name": "品读季羡林的人生智慧",
+            "author": "刘军娣",
+            "publica_date": "2012-04-01",
+            "publishing_group": "中国纺织出版社",
+            "price_n": "¥5.20",
+            "price_r": "¥29.80",
+            "price_s": "1.7折",
+            "book_img": "http://img3m6.ddimg.cn/5/26/1900546466-1_l_4.jpg"
+        },
+        {
+            "name": "学会写作：自我进阶的高效方法",
+            "author": "粥左罗",
+            "publica_date": "2019-06-01",
+            "publishing_group": "人民邮电出版社",
+            "price_n": "¥26.60",
+            "price_r": "¥26.60",
+            "price_s": "10.0折",
+            "book_img": "http://img3m1.ddimg.cn/61/32/1901128741-1_l_2.jpg"
+        },
+        {
+            "name": "孙正义的时间管理术",
+            "author": "三木雄信千太阳",
+            "publica_date": "",
+            "publishing_group": "人民邮电出版社有限公司",
+            "price_n": "¥22.50",
+            "price_r": "¥22.50",
+            "price_s": "10.0折",
+            "book_img": "http://img3m5.ddimg.cn/47/33/1901136845-1_l_1.jpg"
+        },
+        {
+            "name": "微习惯：简单到不可能失败的自我管理法则",
+            "author": "斯蒂芬·盖斯",
+            "publica_date": "2016-11-01",
+            "publishing_group": "江西人民出版社",
+            "price_n": "¥6.99",
+            "price_r": "¥38.00",
+            "price_s": "1.8折",
+            "book_img": "http://img3m8.ddimg.cn/35/36/1900738358-1_l_2.jpg"
+        },
+        {
+            "name": "狼道：社会生活中的强者法则",
+            "author": "夏志强",
+            "publica_date": "2009-12-01",
+            "publishing_group": "大众文艺出版社",
+            "price_n": "¥3.99",
+            "price_r": "¥5.99",
+            "price_s": "6.7折",
+            "book_img": "http://img3m0.ddimg.cn/64/20/1900710370-1_l_1.jpg"
+        },
+        {
+            "name": "最怕你一生碌碌无为，还安慰自己平凡可贵",
+            "author": "老杨的猫头鹰",
+            "publica_date": "2016-08-01",
+            "publishing_group": "现代出版社",
+            "price_n": "¥3.99",
+            "price_r": "¥38.00",
+            "price_s": "1.1折",
+            "book_img": "http://img3m0.ddimg.cn/75/12/1900646130-1_l_4.jpg"
+        },
+        {
+            "name": "把时间当作朋友(第3版)(全彩)",
+            "author": "李笑来",
+            "publica_date": "2013-10-01",
+            "publishing_group": "电子工业出版社",
+            "price_n": "¥14.75",
+            "price_r": "¥14.75",
+            "price_s": "10.0折",
+            "book_img": "http://img3m3.ddimg.cn/86/35/1901111243-1_l_3.jpg"
+        },
+        {
+            "name": "卓有成效的学习方法：康奈尔大学最受欢迎的学习课",
+            "author": "爱德华·李·桑代克",
+            "publica_date": "2016-01-01",
+            "publishing_group": "中国商业出版社",
+            "price_n": "¥11.99",
+            "price_r": "¥39.80",
+            "price_s": "3.0折",
+            "book_img": "http://img3m8.ddimg.cn/68/11/1900981238-1_l_1.jpg"
+        },
+        {
+            "name": "好好说话：新鲜有趣的话术精进技巧",
+            "author": "马薇薇黄执中周玄毅",
+            "publica_date": "2016-12-13",
+            "publishing_group": "中信出版社",
+            "price_n": "¥12.99",
+            "price_r": "¥49.00",
+            "price_s": "2.7折",
+            "book_img": "http://img3m3.ddimg.cn/57/10/1900698483-1_l_2.jpg"
+        },
+        {
+            "name": "好好学习个人知识管理精进指南",
+            "author": "成甲",
+            "publica_date": "2016-12-30",
+            "publishing_group": "中信出版社",
+            "price_n": "¥5.99",
+            "price_r": "¥42.00",
+            "price_s": "1.4折",
+            "book_img": "http://img3m9.ddimg.cn/64/19/1900680769-1_l_4.jpg"
+        },
+        {
+            "name": "气场哪里来",
+            "author": "李筱懿",
+            "publica_date": "2019-06-01",
+            "publishing_group": "上海文艺出版社",
+            "price_n": "¥20.00",
+            "price_r": "¥34.00",
+            "price_s": "5.9折",
+            "book_img": "http://img3m1.ddimg.cn/71/33/1901129741-1_l_4.jpg"
+        },
+        {
+            "name": "好好说话2：简单有效的高情商沟通术",
+            "author": "马薇薇黄执中周玄毅邱晨胡渐彪",
+            "publica_date": "2018-09-01",
+            "publishing_group": "北京联合出版有限公司",
+            "price_n": "¥12.99",
+            "price_r": "¥55.00",
+            "price_s": "2.4折",
+            "book_img": "http://img3m4.ddimg.cn/71/12/1901086874-1_l_2.jpg"
+        },
+        {
+            "name": "学习力：颠覆职场学习的高效方法",
+            "author": "王世民缪志聪",
+            "publica_date": "2018-10-01",
+            "publishing_group": "电子工业出版社",
+            "price_n": "¥12.38",
+            "price_r": "¥47.60",
+            "price_s": "2.6折",
+            "book_img": "http://img3m7.ddimg.cn/3/30/1901123337-1_l_2.jpg"
+        },
+        {
+            "name": "你的情商，决定你的人生高度：情商高的人，运气都不会太差！",
+            "author": "心屋仁之助",
+            "publica_date": "2019-04-01",
+            "publishing_group": "中国友谊出版公司",
+            "price_n": "¥9.99",
+            "price_r": "¥19.99",
+            "price_s": "5.0折",
+            "book_img": "http://img3m1.ddimg.cn/62/0/1901118941-1_l_3.jpg"
+        },
+        {
+            "name": "坚持，一种可以养成的习惯",
+            "author": "古川武士",
+            "publica_date": "2016-05-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥12.99",
+            "price_r": "¥36.00",
+            "price_s": "3.6折",
+            "book_img": "http://img3m2.ddimg.cn/39/3/1900738362-1_l_1.jpg"
+        },
+        {
+            "name": "这样读书就够了",
+            "author": "赵周",
+            "publica_date": "2017-11-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥4.99",
+            "price_r": "¥48.00",
+            "price_s": "1.0折",
+            "book_img": "http://img3m4.ddimg.cn/43/28/1900770244-1_l_2.jpg"
+        },
+        {
+            "name": "沟通圣经：听说读写全方位沟通技巧",
+            "author": "尼基·斯坦顿",
+            "publica_date": "2015-12-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥5.40",
+            "price_r": "¥45.00",
+            "price_s": "1.2折",
+            "book_img": "http://img3m5.ddimg.cn/74/35/1901078165-1_l_2.jpg"
+        },
+        {
+            "name": "你的善良必须有点锋芒",
+            "author": "慕言歌",
+            "publica_date": "2016-09-01",
+            "publishing_group": "古吴轩出版社",
+            "price_n": "¥3.00",
+            "price_r": "¥32.80",
+            "price_s": "0.9折",
+            "book_img": "http://img3m0.ddimg.cn/86/29/1900680890-1_l_2.jpg"
+        },
+        {
+            "name": "一本小小的红色写作书",
+            "author": "布兰登·罗伊尔周丽萍",
+            "publica_date": "2017-04-01",
+            "publishing_group": "九州出版社",
+            "price_n": "¥0.99",
+            "price_r": "¥39.80",
+            "price_s": "0.2折",
+            "book_img": "http://img3m3.ddimg.cn/53/29/1900672343-1_l_1.jpg"
+        },
+        {
+            "name": "不分心",
+            "author": "亚历克斯·索勇金·庞",
+            "publica_date": "",
+            "publishing_group": "中信出版集团股份有限公司",
+            "price_n": "¥29.40",
+            "price_r": "¥29.40",
+            "price_s": "10.0折",
+            "book_img": "http://img3m2.ddimg.cn/49/2/1901134372-1_l_1.jpg"
+        },
+        {
+            "name": "情商高，就是说话让人舒服",
+            "author": "朱凌常清",
+            "publica_date": "2016-10-01",
+            "publishing_group": "延边大学出版社",
+            "price_n": "¥5.99",
+            "price_r": "¥38.00",
+            "price_s": "1.6折",
+            "book_img": "http://img3m0.ddimg.cn/65/26/1900741160-1_l_2.jpg"
+        },
+        {
+            "name": "面试技巧+社交礼仪+职场礼仪(套装3册)",
+            "author": "李靖李飞",
+            "publica_date": "",
+            "publishing_group": "天津人民出版社",
+            "price_n": "¥29.99",
+            "price_r": "¥76.80",
+            "price_s": "3.9折",
+            "book_img": "http://img3m3.ddimg.cn/87/33/1901110353-1_l_1.jpg"
+        },
+        {
+            "name": "如何成为一个学习忍者",
+            "author": "格雷厄姆·奥尔科特GrahamAllcott",
+            "publica_date": "2017-02-01",
+            "publishing_group": "机械工业出版社",
+            "price_n": "¥9.99",
+            "price_r": "¥39.00",
+            "price_s": "2.6折",
+            "book_img": "http://img3m7.ddimg.cn/57/1/1900655517-1_l_1.jpg"
+        },
+        {
+            "name": "从零开始做运营",
+            "author": "张亮",
+            "publica_date": "2015-12-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥4.99",
+            "price_r": "¥49.00",
+            "price_s": "1.0折",
+            "book_img": "http://img3m0.ddimg.cn/65/32/1900545140-1_l_10.jpg"
+        },
+        {
+            "name": "不疲惫的精力管理术：40岁，你的人生才刚刚开始",
+            "author": "葛西纪明",
+            "publica_date": "2019-06-01",
+            "publishing_group": "人民邮电出版社",
+            "price_n": "¥22.20",
+            "price_r": "¥22.20",
+            "price_s": "10.0折",
+            "book_img": "http://img3m1.ddimg.cn/27/0/1901129301-1_l_2.jpg"
+        },
+        {
+            "name": "99种最讨人喜欢的说话方式",
+            "author": "韩雨",
+            "publica_date": "2019-01-01",
+            "publishing_group": "北方文艺出版社",
+            "price_n": "¥15.99",
+            "price_r": "¥15.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m2.ddimg.cn/61/16/1901127652-1_l_2.jpg"
+        },
+        {
+            "name": "全脑演讲：左脑逻辑，右脑情商",
+            "author": "大卫祁",
+            "publica_date": "2019-03-01",
+            "publishing_group": "人民邮电出版社",
+            "price_n": "¥9.99",
+            "price_r": "¥22.00",
+            "price_s": "4.5折",
+            "book_img": "http://img3m8.ddimg.cn/49/24/1901118928-1_l_2.jpg"
+        },
+        {
+            "name": "像间谍一样观察",
+            "author": "杰克·谢弗马文·卡林斯",
+            "publica_date": "2019-01-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥12.99",
+            "price_r": "¥34.80",
+            "price_s": "3.7折",
+            "book_img": "http://img3m7.ddimg.cn/91/9/1901109367-1_l_2.jpg"
+        },
+        {
+            "name": "关键对话：如何高效能沟通(原书第2版)(珍藏版)",
+            "author": "科里·帕特森KerryPatterson",
+            "publica_date": "2017-04-01",
+            "publishing_group": "机械工业出版社",
+            "price_n": "¥18.00",
+            "price_r": "¥45.00",
+            "price_s": "4.0折",
+            "book_img": "http://img3m7.ddimg.cn/68/6/1900679387-1_l_1.jpg"
+        },
+        {
+            "name": "羊皮卷",
+            "author": "戴尔·卡耐基",
+            "publica_date": "2018-04-01",
+            "publishing_group": "新华出版社",
+            "price_n": "¥17.99",
+            "price_r": "¥35.80",
+            "price_s": "5.0折",
+            "book_img": "http://img3m3.ddimg.cn/43/3/1901085163-1_l_1.jpg"
+        },
+        {
+            "name": "极简思考：来自世界顶尖咨询公司的高效工作法",
+            "author": "迈克·费廖洛世宜",
+            "publica_date": "2018-03-01",
+            "publishing_group": "九州出版社",
+            "price_n": "¥0.99",
+            "price_r": "¥42.00",
+            "price_s": "0.2折",
+            "book_img": "http://img3m1.ddimg.cn/2/4/1900786241-1_l_2.jpg"
+        },
+        {
+            "name": "情商：为什么情商比智商更重要(第2版)",
+            "author": "丹尼尔·戈尔曼",
+            "publica_date": "2018-01-01",
+            "publishing_group": "中信出版集团股份有限公司",
+            "price_n": "¥7.99",
+            "price_r": "¥69.00",
+            "price_s": "1.2折",
+            "book_img": "http://img3m2.ddimg.cn/7/16/1900784662-1_l_1.jpg"
+        },
+        {
+            "name": "生活需要孤独感(自律的顶端就是享受孤独)",
+            "author": "李思圆",
+            "publica_date": "",
+            "publishing_group": "长江文艺出版社",
+            "price_n": "¥15.99",
+            "price_r": "¥28.99",
+            "price_s": "5.5折",
+            "book_img": "http://img3m5.ddimg.cn/36/33/1901132775-1_l_1.jpg"
+        },
+        {
+            "name": "少有人走的路",
+            "author": "约瑟夫·查思特罗",
+            "publica_date": "2012-09-01",
+            "publishing_group": "安徽人民出版社",
+            "price_n": "¥4.71",
+            "price_r": "¥10.00",
+            "price_s": "4.7折",
+            "book_img": "http://img3m9.ddimg.cn/11/24/1900694279-1_l_2.jpg"
+        },
+        {
+            "name": "修心三不:不生气不计较不抱怨(去梯言)",
+            "author": "端木自在",
+            "publica_date": "2014-06-01",
+            "publishing_group": "立信会计出版社",
+            "price_n": "¥2.00",
+            "price_r": "¥36.00",
+            "price_s": "0.6折",
+            "book_img": "http://img3m2.ddimg.cn/42/2/1900608972-1_l_2.jpg"
+        },
+        {
+            "name": "世界知名企业员工指定培训教材：所谓情商高，就是会说话",
+            "author": "佐佐木圭一",
+            "publica_date": "2016-09-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥9.90",
+            "price_r": "¥32.00",
+            "price_s": "3.1折",
+            "book_img": "http://img3m3.ddimg.cn/6/0/1900666653-1_l_4.jpg"
+        },
+        {
+            "name": "当下的力量（珍藏版）",
+            "author": "托利",
+            "publica_date": "2013-07-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥12.80",
+            "price_r": "¥32.00",
+            "price_s": "4.0折",
+            "book_img": "http://img3m6.ddimg.cn/18/6/1900338876-1_l_2.jpg"
+        },
+        {
+            "name": "思维导图完整手册",
+            "author": "东尼·博赞",
+            "publica_date": "2018-10-01",
+            "publishing_group": "中信出版集团股份有限公司",
+            "price_n": "¥34.80",
+            "price_r": "¥34.80",
+            "price_s": "10.0折",
+            "book_img": "http://img3m3.ddimg.cn/66/3/1901100333-1_l_3.jpg"
+        },
+        {
+            "name": "新情商",
+            "author": "丹尼尔·戈尔曼理查德·戴维森",
+            "publica_date": "2019-04-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥27.99",
+            "price_r": "¥41.40",
+            "price_s": "6.8折",
+            "book_img": "http://img3m6.ddimg.cn/47/14/1901123876-1_l_2.jpg"
+        },
+        {
+            "name": "认知尺度",
+            "author": "魏坤琳",
+            "publica_date": "2019-03-01",
+            "publishing_group": "中信出版集团股份有限公司",
+            "price_n": "¥35.40",
+            "price_r": "¥35.40",
+            "price_s": "10.0折",
+            "book_img": "http://img3m9.ddimg.cn/32/9/1901112179-1_l_5.jpg"
+        },
+        {
+            "name": "超水平发挥：心理素质训练手册",
+            "author": "D.C冈萨雷斯爱丽丝·麦克维",
+            "publica_date": "2018-05-01",
+            "publishing_group": "江西人民出版社",
+            "price_n": "¥21.60",
+            "price_r": "¥36.00",
+            "price_s": "6.0折",
+            "book_img": "http://img3m2.ddimg.cn/91/15/1901078182-1_l_2.jpg"
+        },
+        {
+            "name": "人性的弱点全集【精装本】",
+            "author": "戴尔·卡耐基",
+            "publica_date": "2008-01-01",
+            "publishing_group": "中国发展出版社",
+            "price_n": "¥2.99",
+            "price_r": "¥4.49",
+            "price_s": "6.7折",
+            "book_img": "http://img3m7.ddimg.cn/81/14/1900436157-1_l_3.jpg"
+        },
+        {
+            "name": "人生效率手册：如何卓有成效地过好每一天",
+            "author": "张萌",
+            "publica_date": "2017-07-01",
+            "publishing_group": "湖南文艺出版社",
+            "price_n": "¥7.99",
+            "price_r": "¥39.00",
+            "price_s": "2.0折",
+            "book_img": "http://img3m6.ddimg.cn/85/4/1900728706-1_l_1.jpg"
+        },
+        {
+            "name": "思考致富",
+            "author": "拿破仑·希尔",
+            "publica_date": "2015-10-01",
+            "publishing_group": "古吴轩出版社",
+            "price_n": "¥7.16",
+            "price_r": "¥35.80",
+            "price_s": "2.0折",
+            "book_img": "http://img3m6.ddimg.cn/33/30/1900685886-1_l_1.jpg"
+        },
+        {
+            "name": "30岁前的每一天：超实用梦想管理指南(新版)",
+            "author": "水湄物语",
+            "publica_date": "2018-12-20",
+            "publishing_group": "中国友谊出版公司",
+            "price_n": "¥10.26",
+            "price_r": "¥16.80",
+            "price_s": "6.1折",
+            "book_img": "http://img3m6.ddimg.cn/27/8/1901106036-1_l_2.jpg"
+        },
+        {
+            "name": "如何戒掉坏习惯",
+            "author": "古川武士",
+            "publica_date": "2018-03-01",
+            "publishing_group": "江西人民出版社",
+            "price_n": "¥21.60",
+            "price_r": "¥36.00",
+            "price_s": "6.0折",
+            "book_img": "http://img3m0.ddimg.cn/28/10/1901077030-1_l_2.jpg"
+        },
+        {
+            "name": "升维：让你人生出众的另类通道",
+            "author": "褚明宇",
+            "publica_date": "2019-04-01",
+            "publishing_group": "中国友谊出版公司",
+            "price_n": "¥14.99",
+            "price_r": "¥26.99",
+            "price_s": "5.6折",
+            "book_img": "http://img3m0.ddimg.cn/46/0/1901127340-1_l_2.jpg"
+        },
+        {
+            "name": "格局决定你的人生上限：马云写给年轻人的人生智慧课",
+            "author": "周一南",
+            "publica_date": "2019-04-01",
+            "publishing_group": "中华工商联合出版社",
+            "price_n": "¥13.07",
+            "price_r": "¥29.88",
+            "price_s": "4.4折",
+            "book_img": "http://img3m3.ddimg.cn/21/13/1901116623-1_l_2.jpg"
+        },
+        {
+            "name": "你只是看起来很努力(全新修订版)",
+            "author": "李尚龙",
+            "publica_date": "2017-08-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥7.42",
+            "price_r": "¥39.80",
+            "price_s": "1.9折",
+            "book_img": "http://img3m4.ddimg.cn/40/30/1900720444-1_l_1.jpg"
+        },
+        {
+            "name": "关键20小时，快速学会任何技能！",
+            "author": "乔希·考夫曼Kaufman",
+            "publica_date": "2015-10-01",
+            "publishing_group": "机械工业出版社",
+            "price_n": "¥8.99",
+            "price_r": "¥39.00",
+            "price_s": "2.3折",
+            "book_img": "http://img3m9.ddimg.cn/96/19/1900502799-1_l_7.jpg"
+        },
+        {
+            "name": "时间的朋友2018精校版",
+            "author": "罗振宇",
+            "publica_date": "2018-12-31",
+            "publishing_group": "中信出版社",
+            "price_n": "¥0.99",
+            "price_r": "¥9.99",
+            "price_s": "1.0折",
+            "book_img": "http://img3m1.ddimg.cn/56/8/1901108441-1_l_2.jpg"
+        },
+        {
+            "name": "活好：我这样活到105岁",
+            "author": "日野原重明",
+            "publica_date": "2018-10-01",
+            "publishing_group": "人民邮电出版社",
+            "price_n": "¥9.99",
+            "price_r": "¥45.00",
+            "price_s": "2.2折",
+            "book_img": "http://img3m7.ddimg.cn/12/6/1901091567-1_l_2.jpg"
+        },
+        {
+            "name": "富有的习惯",
+            "author": "托马斯·科里",
+            "publica_date": "2018-05-01",
+            "publishing_group": "民主与建设出版社",
+            "price_n": "¥19.99",
+            "price_r": "¥45.00",
+            "price_s": "4.4折",
+            "book_img": "http://img3m7.ddimg.cn/67/14/1901070337-1_l_2.jpg"
+        },
+        {
+            "name": "泰普勒人生法则系列(套装共6册)",
+            "author": "理查德·泰普勒RichardTemplar",
+            "publica_date": "2018-01-01",
+            "publishing_group": "人民邮电出版社",
+            "price_n": "¥139.99",
+            "price_r": "¥629.97",
+            "price_s": "2.2折",
+            "book_img": "http://img3m9.ddimg.cn/57/18/1900774119-1_l_1.jpg"
+        },
+        {
+            "name": "好的焦虑",
+            "author": "斯科特·施托塞尔",
+            "publica_date": "",
+            "publishing_group": "中信出版集团股份有限公司",
+            "price_n": "¥19.99",
+            "price_r": "¥29.40",
+            "price_s": "6.8折",
+            "book_img": "http://img3m2.ddimg.cn/75/11/1901133012-1_l_1.jpg"
+        },
+        {
+            "name": "别让不好意思害了你",
+            "author": "周维丽",
+            "publica_date": "2012-01-01",
+            "publishing_group": "北京理工大学出版社",
+            "price_n": "¥1.00",
+            "price_r": "¥26.00",
+            "price_s": "0.4折",
+            "book_img": "http://img3m5.ddimg.cn/98/30/1900494485-1_l_1.jpg"
+        },
+        {
+            "name": "把最擅长的事情做到最好",
+            "author": "程应峰",
+            "publica_date": "2019-01-01",
+            "publishing_group": "辽宁人民出版社",
+            "price_n": "¥12.99",
+            "price_r": "¥12.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m7.ddimg.cn/60/4/1901128047-1_l_2.jpg"
+        },
+        {
+            "name": "麦肯锡笔记思考法",
+            "author": "大岛祥誉沈海泳",
+            "publica_date": "2017-12-01",
+            "publishing_group": "江西人民出版社",
+            "price_n": "¥3.99",
+            "price_r": "¥36.00",
+            "price_s": "1.1折",
+            "book_img": "http://img3m4.ddimg.cn/19/17/1901070784-1_l_1.jpg"
+        },
+        {
+            "name": "趁早",
+            "author": "王潇",
+            "publica_date": "2019-04-01",
+            "publishing_group": "上海文艺出版社",
+            "price_n": "¥9.99",
+            "price_r": "¥20.00",
+            "price_s": "5.0折",
+            "book_img": "http://img3m2.ddimg.cn/63/11/1901121912-1_l_2.jpg"
+        },
+        {
+            "name": "快速阅读训练法(畅销升级版)",
+            "author": "刘志华",
+            "publica_date": "",
+            "publishing_group": "中国纺织出版社",
+            "price_n": "¥23.20",
+            "price_r": "¥23.20",
+            "price_s": "10.0折",
+            "book_img": "http://img3m6.ddimg.cn/11/2/1901116316-1_l_1.jpg"
+        },
+        {
+            "name": "你不是记性差，只是没找对方法",
+            "author": "池田义博",
+            "publica_date": "2017-12-01",
+            "publishing_group": "东方出版中心有限公司",
+            "price_n": "¥11.99",
+            "price_r": "¥29.99",
+            "price_s": "4.0折",
+            "book_img": "http://img3m6.ddimg.cn/54/8/1901112696-1_l_2.jpg"
+        },
+        {
+            "name": "还好，终究走了自己的路(43个关于对阵焦虑，尝遍爱恨，完美豹变的...",
+            "author": "忆湄",
+            "publica_date": "2019-03-01",
+            "publishing_group": "浙江大学出版社",
+            "price_n": "¥24.00",
+            "price_r": "¥24.00",
+            "price_s": "10.0折",
+            "book_img": "http://img3m3.ddimg.cn/68/20/1901108453-1_l_2.jpg"
+        },
+        {
+            "name": "关系攻略：如何成为社交高手(共6册)",
+            "author": "瓦妮莎·范·爱德华兹克里斯多福·孟丹尼尔·戈尔曼梅尔·罗宾斯珍妮·马丁内特李小墨",
+            "publica_date": "",
+            "publishing_group": "天津博集新媒科技有限公司",
+            "price_n": "¥100.99",
+            "price_r": "¥100.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m6.ddimg.cn/29/29/1901093366-1_l_1.jpg"
+        },
+        {
+            "name": "精准表达：开口就能说重点",
+            "author": "牛津",
+            "publica_date": "2017-10-01",
+            "publishing_group": "古吴轩出版社",
+            "price_n": "¥12.16",
+            "price_r": "¥19.00",
+            "price_s": "6.4折",
+            "book_img": "http://img3m7.ddimg.cn/88/14/1900961557-1_l_2.jpg"
+        },
+        {
+            "name": "你不努力，没人能给你想要的生活",
+            "author": "超级玛丽",
+            "publica_date": "2017-06-01",
+            "publishing_group": "百花洲文艺出版社",
+            "price_n": "¥7.85",
+            "price_r": "¥39.80",
+            "price_s": "2.0折",
+            "book_img": "http://img3m3.ddimg.cn/5/0/1900769513-1_l_1.jpg"
+        },
+        {
+            "name": "进阶：身价倍增的时间、知识、情绪自我精进",
+            "author": "萧秋水",
+            "publica_date": "2017-10-01",
+            "publishing_group": "台海出版社",
+            "price_n": "¥6.99",
+            "price_r": "¥39.80",
+            "price_s": "1.8折",
+            "book_img": "http://img3m6.ddimg.cn/45/14/1900743516-1_l_2.jpg"
+        },
+        {
+            "name": "把时间当做朋友",
+            "author": "李笑来",
+            "publica_date": "2017-10-01",
+            "publishing_group": "长江文艺出版社",
+            "price_n": "¥12.99",
+            "price_r": "¥36.00",
+            "price_s": "3.6折",
+            "book_img": "http://img3m2.ddimg.cn/1/16/1900742482-1_l_3.jpg"
+        },
+        {
+            "name": "整理情绪的力量",
+            "author": "有川真由美",
+            "publica_date": "2016-04-01",
+            "publishing_group": "鹭江出版社",
+            "price_n": "¥9.99",
+            "price_r": "¥32.00",
+            "price_s": "3.1折",
+            "book_img": "http://img3m1.ddimg.cn/38/2/1900738361-1_l_1.jpg"
+        },
+        {
+            "name": "非暴力沟通(珍藏版)",
+            "author": "马歇尔·卢森堡MarshallB.Rosenberg",
+            "publica_date": "2015-01-01",
+            "publishing_group": "华夏出版社",
+            "price_n": "¥19.60",
+            "price_r": "¥49.00",
+            "price_s": "4.0折",
+            "book_img": "http://img3m0.ddimg.cn/69/18/1900700970-1_l_1.jpg"
+        },
+        {
+            "name": "刻意学习",
+            "author": "Scalers",
+            "publica_date": "2017-06-01",
+            "publishing_group": "北京联合出版有限公司",
+            "price_n": "¥4.99",
+            "price_r": "¥39.80",
+            "price_s": "1.3折",
+            "book_img": "http://img3m2.ddimg.cn/51/26/1900694022-1_l_2.jpg"
+        },
+        {
+            "name": "如何高效记忆(原书第2版)",
+            "author": "肯尼思·希格比KennethL.Higbee",
+            "publica_date": "2017-02-01",
+            "publishing_group": "机械工业出版社",
+            "price_n": "¥13.99",
+            "price_r": "¥39.00",
+            "price_s": "3.6折",
+            "book_img": "http://img3m6.ddimg.cn/56/0/1900655516-1_l_1.jpg"
+        },
+        {
+            "name": "照着做你就能掌控情绪(去梯言系列)",
+            "author": "龙小云",
+            "publica_date": "2015-07-01",
+            "publishing_group": "立信会计出版社",
+            "price_n": "¥0.10",
+            "price_r": "¥36.00",
+            "price_s": "0.0折",
+            "book_img": "http://img3m8.ddimg.cn/28/25/1900608958-1_l_2.jpg"
+        },
+        {
+            "name": "结构性思维：让思考和表达像搭积木一样有序省力",
+            "author": "王琳朱文浩",
+            "publica_date": "2016-05-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥28.99",
+            "price_r": "¥55.00",
+            "price_s": "5.3折",
+            "book_img": "http://img3m4.ddimg.cn/0/7/1900567944-1_l_2.jpg"
+        },
+        {
+            "name": "创造财富的100种方法",
+            "author": "史蒂夫·钱德勒",
+            "publica_date": "2014-04-01",
+            "publishing_group": "江苏文艺出版社",
+            "price_n": "¥1.99",
+            "price_r": "¥32.00",
+            "price_s": "0.6折",
+            "book_img": "http://img3m7.ddimg.cn/3/28/1900492707-1_l_1.jpg"
+        },
+        {
+            "name": "FBI教你套话术",
+            "author": "杜丽丽",
+            "publica_date": "2011-11-01",
+            "publishing_group": "新世界出版社",
+            "price_n": "¥0.99",
+            "price_r": "¥29.80",
+            "price_s": "0.3折",
+            "book_img": "http://img3m1.ddimg.cn/98/25/1900298861-1_l_1.jpg"
+        },
+        {
+            "name": "洗脑术：怎样有逻辑地说服他人",
+            "author": "高德",
+            "publica_date": "2013-03-01",
+            "publishing_group": "江苏文艺出版社",
+            "price_n": "¥9.99",
+            "price_r": "¥35.00",
+            "price_s": "2.9折",
+            "book_img": "http://img3m7.ddimg.cn/66/30/1900284177-1_l_9.jpg"
+        },
+        {
+            "name": "会撒娇的女人最好命大全集（超值金版）",
+            "author": "魏凤莲陈旭",
+            "publica_date": "2011-07-01",
+            "publishing_group": "新世界出版社",
+            "price_n": "¥0.99",
+            "price_r": "¥29.00",
+            "price_s": "0.3折",
+            "book_img": "http://img3m6.ddimg.cn/38/10/1900129016-1_l_1.jpg"
+        },
+        {
+            "name": "把信送给加西亚",
+            "author": "阿尔伯特·哈伯德",
+            "publica_date": "2011-04-01",
+            "publishing_group": "重庆出版社",
+            "price_n": "¥0.99",
+            "price_r": "¥10.00",
+            "price_s": "1.0折",
+            "book_img": "http://img3m6.ddimg.cn/89/2/1900089566-1_l_1.jpg"
+        },
+        {
+            "name": "女人饭局应酬通变术：做个会说话会办事会交际的聪明女人",
+            "author": "禾雨",
+            "publica_date": "2013-02-01",
+            "publishing_group": "华文出版社",
+            "price_n": "¥7.45",
+            "price_r": "¥29.80",
+            "price_s": "2.5折",
+            "book_img": "http://img3m9.ddimg.cn/20/13/1900713989-1_l_1.jpg"
+        },
+        {
+            "name": "天才源自刻意练习：通向成功的高效学习法",
+            "author": "杰夫·科尔文",
+            "publica_date": "2017-07-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥19.99",
+            "price_r": "¥42.00",
+            "price_s": "4.8折",
+            "book_img": "http://img3m2.ddimg.cn/61/2/1900705912-1_l_2.jpg"
+        },
+        {
+            "name": "别在该动脑子的时候动感情",
+            "author": "采薇",
+            "publica_date": "2015-10-01",
+            "publishing_group": "天津人民出版社",
+            "price_n": "¥9.55",
+            "price_r": "¥36.00",
+            "price_s": "2.7折",
+            "book_img": "http://img3m5.ddimg.cn/32/29/1900685885-1_l_1.jpg"
+        },
+        {
+            "name": "穷查理宝典：思维方式分册",
+            "author": "查理·芒格",
+            "publica_date": "2016-08-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥11.38",
+            "price_r": "¥168.00",
+            "price_s": "0.7折",
+            "book_img": "http://img3m8.ddimg.cn/61/10/1900671658-1_l_1.jpg"
+        },
+        {
+            "name": "天下没有陌生人",
+            "author": "刘希平",
+            "publica_date": "2017-03-01",
+            "publishing_group": "中国友谊出版公司",
+            "price_n": "¥2.99",
+            "price_r": "¥42.00",
+            "price_s": "0.7折",
+            "book_img": "http://img3m3.ddimg.cn/65/4/1900657703-1_l_2.jpg"
+        },
+        {
+            "name": "稻盛和夫的人生哲学",
+            "author": "石川康",
+            "publica_date": "2017-01-01",
+            "publishing_group": "现代出版社",
+            "price_n": "¥1.99",
+            "price_r": "¥39.80",
+            "price_s": "0.5折",
+            "book_img": "http://img3m1.ddimg.cn/15/3/1900653891-1_l_2.jpg"
+        },
+        {
+            "name": "脱稿讲话的艺术：最佳口头表达能力速成秘诀",
+            "author": "华阳",
+            "publica_date": "2016-02-01",
+            "publishing_group": "台海出版社",
+            "price_n": "¥0.99",
+            "price_r": "¥35.00",
+            "price_s": "0.3折",
+            "book_img": "http://img3m6.ddimg.cn/60/36/1900606416-1_l_3.jpg"
+        },
+        {
+            "name": "将来的你，一定会感谢现在拼命的自己",
+            "author": "汤木",
+            "publica_date": "2014-06-01",
+            "publishing_group": "江西教育出版社",
+            "price_n": "¥1.99",
+            "price_r": "¥50.00",
+            "price_s": "0.4折",
+            "book_img": "http://img3m5.ddimg.cn/87/30/1900600305-1_l_4.jpg"
+        },
+        {
+            "name": "说话心理学",
+            "author": "端木自在",
+            "publica_date": "2016-07-01",
+            "publishing_group": "江西人民出版社",
+            "price_n": "¥1.00",
+            "price_r": "¥39.00",
+            "price_s": "0.3折",
+            "book_img": "http://img3m5.ddimg.cn/45/23/1900570365-1_l_2.jpg"
+        },
+        {
+            "name": "一万小时定律",
+            "author": "张笑颜",
+            "publica_date": "2014-09-01",
+            "publishing_group": "北京时代华文书局",
+            "price_n": "¥0.99",
+            "price_r": "¥36.00",
+            "price_s": "0.3折",
+            "book_img": "http://img3m1.ddimg.cn/7/20/1900555081-1_l_2.jpg"
+        },
+        {
+            "name": "图解博弈论",
+            "author": "连山",
+            "publica_date": "2014-07-01",
+            "publishing_group": "中国华侨出版社",
+            "price_n": "¥1.00",
+            "price_r": "¥30.00",
+            "price_s": "0.3折",
+            "book_img": "http://img3m5.ddimg.cn/52/5/1900511665-1_l_2.jpg"
+        },
+        {
+            "name": "将来的你，一定会感谢现在拼命的自己",
+            "author": "汤木",
+            "publica_date": "2014-06-01",
+            "publishing_group": "天津人民出版社",
+            "price_n": "¥1.99",
+            "price_r": "¥32.00",
+            "price_s": "0.6折",
+            "book_img": "http://img3m3.ddimg.cn/50/14/1900481963-1_l_10.jpg"
+        },
+        {
+            "name": "人生定位",
+            "author": "里斯特劳特",
+            "publica_date": "2011-09-01",
+            "publishing_group": "机械工业出版社",
+            "price_n": "¥11.99",
+            "price_r": "¥42.00",
+            "price_s": "2.9折",
+            "book_img": "http://img3m4.ddimg.cn/64/7/1900431784-1_l_3.jpg"
+        },
+        {
+            "name": "人性的弱点",
+            "author": "戴尔·卡耐基DaleCarnegie",
+            "publica_date": "2014-09-01",
+            "publishing_group": "天津人民出版社",
+            "price_n": "¥1.99",
+            "price_r": "¥32.00",
+            "price_s": "0.6折",
+            "book_img": "http://img3m3.ddimg.cn/10/18/1900363123-1_l_3.jpg"
+        },
+        {
+            "name": "天天25小时（精编图文版）",
+            "author": "劳拉·万德尔坎姆",
+            "publica_date": "2013-04-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥23.40",
+            "price_r": "¥39.00",
+            "price_s": "6.0折",
+            "book_img": "http://img3m7.ddimg.cn/4/27/1900349257-1_l_1.jpg"
+        },
+        {
+            "name": "拒绝低层次的人生（套装共2册）",
+            "author": "科里·夏纳罕心屋仁之助",
+            "publica_date": "2019-04-01",
+            "publishing_group": "中国友谊出版公司",
+            "price_n": "¥10.00",
+            "price_r": "¥10.00",
+            "price_s": "10.0折",
+            "book_img": "http://img3m6.ddimg.cn/86/29/1901127776-1_l_3.jpg"
+        },
+        {
+            "name": "是谁出的题这么难，到处都是正确答案",
+            "author": "邱天",
+            "publica_date": "2019-04-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥11.99",
+            "price_r": "¥29.40",
+            "price_s": "4.1折",
+            "book_img": "http://img3m9.ddimg.cn/3/17/1901123139-1_l_2.jpg"
+        },
+        {
+            "name": "好听：如何练就好声音",
+            "author": "徐洁",
+            "publica_date": "2019-03-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥25.99",
+            "price_r": "¥28.80",
+            "price_s": "9.0折",
+            "book_img": "http://img3m9.ddimg.cn/92/7/1901123129-1_l_2.jpg"
+        },
+        {
+            "name": "深度成长：颠覆思维模式，重新定义成功！",
+            "author": "科里夏纳罕",
+            "publica_date": "2019-04-01",
+            "publishing_group": "台海出版社",
+            "price_n": "¥15.19",
+            "price_r": "¥18.99",
+            "price_s": "8.0折",
+            "book_img": "http://img3m4.ddimg.cn/83/26/1901116784-1_l_2.jpg"
+        },
+        {
+            "name": "10倍速目标达成法：孙正义的高效法则",
+            "author": "三木雄信",
+            "publica_date": "2017-08-01",
+            "publishing_group": "机械工业出版社",
+            "price_n": "¥20.00",
+            "price_r": "¥25.35",
+            "price_s": "7.9折",
+            "book_img": "http://img3m8.ddimg.cn/95/19/1901129468-1_l_3.jpg"
+        },
+        {
+            "name": "赢家法则",
+            "author": "博多·舍费尔燕环",
+            "publica_date": "2019-06-01",
+            "publishing_group": "现代出版社",
+            "price_n": "¥21.99",
+            "price_r": "¥29.99",
+            "price_s": "7.3折",
+            "book_img": "http://img3m3.ddimg.cn/14/1/1901129783-1_l_1.jpg"
+        },
+        {
+            "name": "断舍离",
+            "author": "山下英子",
+            "publica_date": "2019-01-01",
+            "publishing_group": "湖南文艺出版社",
+            "price_n": "¥9.99",
+            "price_r": "¥23.99",
+            "price_s": "4.2折",
+            "book_img": "http://img3m0.ddimg.cn/4/17/1901119180-1_l_2.jpg"
+        },
+        {
+            "name": "情绪断舍离：清零负能量，激活高效人生的7大关键！",
+            "author": "加勒特·克莱默",
+            "publica_date": "2019-04-01",
+            "publishing_group": "中国友谊出版公司",
+            "price_n": "¥7.99",
+            "price_r": "¥19.99",
+            "price_s": "4.0折",
+            "book_img": "http://img3m9.ddimg.cn/78/11/1901113809-1_l_2.jpg"
+        },
+        {
+            "name": "副业赚钱(人人可复制的爆款赚钱课，副业也能月入过万)",
+            "author": "Angie",
+            "publica_date": "2019-06-01",
+            "publishing_group": "中国友谊出版公司",
+            "price_n": "¥16.99",
+            "price_r": "¥31.99",
+            "price_s": "5.3折",
+            "book_img": "http://img3m5.ddimg.cn/15/23/1901128695-1_l_2.jpg"
+        },
+        {
+            "name": "本能：为什么我们管不住自己？",
+            "author": "特里·伯纳姆杰伊·费伦",
+            "publica_date": "2019-05-01",
+            "publishing_group": "中信出版集团股份有限公司",
+            "price_n": "¥2.00",
+            "price_r": "¥35.40",
+            "price_s": "0.6折",
+            "book_img": "http://img3m0.ddimg.cn/17/15/1901129390-1_l_4.jpg"
+        },
+        {
+            "name": "认知天性：让学习轻而易举的心理学规律",
+            "author": "彼得·C布朗亨利·L罗迪格三世马克·A麦克丹尼尔",
+            "publica_date": "2018-09-01",
+            "publishing_group": "中信出版集团股份有限公司",
+            "price_n": "¥12.99",
+            "price_r": "¥34.80",
+            "price_s": "3.7折",
+            "book_img": "http://img3m3.ddimg.cn/5/29/1901104133-1_l_3.jpg"
+        },
+        {
+            "name": "你可以成为一个有趣的人",
+            "author": "苑哲",
+            "publica_date": "2019-07-01",
+            "publishing_group": "江苏凤凰文艺出版社",
+            "price_n": "¥0.99",
+            "price_r": "¥11.99",
+            "price_s": "0.8折",
+            "book_img": "http://img3m3.ddimg.cn/65/12/1901128943-1_l_2.jpg"
+        },
+        {
+            "name": "情商(全六册)",
+            "author": "丹尼尔·戈尔曼",
+            "publica_date": "2018-05-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥29.99",
+            "price_r": "¥380.00",
+            "price_s": "0.8折",
+            "book_img": "http://img3m4.ddimg.cn/20/6/1901070884-1_l_2.jpg"
+        },
+        {
+            "name": "掌控情绪，从来都不靠忍",
+            "author": "剑圣喵大师",
+            "publica_date": "2018-09-12",
+            "publishing_group": "长江文艺出版社",
+            "price_n": "¥9.99",
+            "price_r": "¥17.99",
+            "price_s": "5.6折",
+            "book_img": "http://img3m8.ddimg.cn/49/32/1901113978-1_l_3.jpg"
+        },
+        {
+            "name": "【李现推荐】深夜加油站遇见苏格拉底：和平勇士之道",
+            "author": "米尔曼",
+            "publica_date": "2013-04-01",
+            "publishing_group": "浙江人民出版社",
+            "price_n": "¥27.02",
+            "price_r": "¥38.61",
+            "price_s": "7.0折",
+            "book_img": "http://img3m5.ddimg.cn/8/19/1901136905-1_l_1.jpg"
+        },
+        {
+            "name": "简单：应对复杂世界的高级思维",
+            "author": "木鱼",
+            "publica_date": "",
+            "publishing_group": "中国华侨出版社",
+            "price_n": "¥6.23",
+            "price_r": "¥9.90",
+            "price_s": "6.3折",
+            "book_img": "http://img3m7.ddimg.cn/28/35/1901135737-1_l_2.jpg"
+        },
+        {
+            "name": "高效阅读",
+            "author": "渡边康弘",
+            "publica_date": "2017-11-13",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥4.99",
+            "price_r": "¥38.00",
+            "price_s": "1.3折",
+            "book_img": "http://img3m5.ddimg.cn/52/31/1900761145-1_l_2.jpg"
+        },
+        {
+            "name": "终身学习",
+            "author": "丹·苏利文凯瑟琳·野村吴果锦",
+            "publica_date": "2018-05-01",
+            "publishing_group": "湖北教育出版社",
+            "price_n": "¥7.20",
+            "price_r": "¥48.00",
+            "price_s": "1.5折",
+            "book_img": "http://img3m7.ddimg.cn/98/14/1901068487-1_l_2.jpg"
+        },
+        {
+            "name": "有效学习",
+            "author": "乌尔里希·伯泽尔",
+            "publica_date": "2018-02-01",
+            "publishing_group": "中信出版集团股份有限公司",
+            "price_n": "¥12.00",
+            "price_r": "¥49.00",
+            "price_s": "2.4折",
+            "book_img": "http://img3m4.ddimg.cn/5/5/1900778324-1_l_2.jpg"
+        },
+        {
+            "name": "别人怎么对你，都是你教的",
+            "author": "黄启团",
+            "publica_date": "",
+            "publishing_group": "中信出版集团股份有限公司",
+            "price_n": "¥27.99",
+            "price_r": "¥40.80",
+            "price_s": "6.9折",
+            "book_img": "http://img3m1.ddimg.cn/22/10/1901133751-1_l_1.jpg"
+        },
+        {
+            "name": "好关系是麻烦出来的",
+            "author": "格子珊",
+            "publica_date": "2019-04-01",
+            "publishing_group": "北方文艺出版社",
+            "price_n": "¥12.80",
+            "price_r": "¥16.80",
+            "price_s": "7.6折",
+            "book_img": "http://img3m2.ddimg.cn/10/5/1901128492-1_l_2.jpg"
+        },
+        {
+            "name": "情商是什么？：关于生活智慧的44个故事",
+            "author": "李筱懿",
+            "publica_date": "2018-01-01",
+            "publishing_group": "浙江文艺出版社",
+            "price_n": "¥9.99",
+            "price_r": "¥39.00",
+            "price_s": "2.6折",
+            "book_img": "http://img3m8.ddimg.cn/9/7/1900770408-1_l_3.jpg"
+        },
+        {
+            "name": "自律力：你有多自律，就有多自由",
+            "author": "小野",
+            "publica_date": "2017-07-01",
+            "publishing_group": "北京联合出版有限公司",
+            "price_n": "¥1.99",
+            "price_r": "¥42.00",
+            "price_s": "0.5折",
+            "book_img": "http://img3m8.ddimg.cn/19/36/1900699138-1_l_2.jpg"
+        },
+        {
+            "name": "精进2：解锁万物的心智进化法(一箭贯穿心智本质，重启自我提升按...",
+            "author": "采铜",
+            "publica_date": "2019-06-01",
+            "publishing_group": "江苏凤凰文艺出版社",
+            "price_n": "¥14.99",
+            "price_r": "¥26.40",
+            "price_s": "5.7折",
+            "book_img": "http://img3m6.ddimg.cn/5/34/1901127596-1_l_2.jpg"
+        },
+        {
+            "name": "如何有效阅读一本书：超实用笔记读书法",
+            "author": "奥野宣之",
+            "publica_date": "2016-06-01",
+            "publishing_group": "江西人民出版社",
+            "price_n": "¥8.64",
+            "price_r": "¥36.00",
+            "price_s": "2.4折",
+            "book_img": "http://img3m6.ddimg.cn/33/34/1900738356-1_l_2.jpg"
+        },
+        {
+            "name": "麦肯锡精英的思考习惯",
+            "author": "高杉尚孝",
+            "publica_date": "2016-06-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥14.99",
+            "price_r": "¥35.00",
+            "price_s": "4.3折",
+            "book_img": "http://img3m8.ddimg.cn/93/23/1900581798-1_l_2.jpg"
+        },
+        {
+            "name": "为什么精英都是清单控",
+            "author": "宝拉·里佐郑焕升",
+            "publica_date": "2016-06-01",
+            "publishing_group": "湖南文艺出版社",
+            "price_n": "¥5.99",
+            "price_r": "¥38.00",
+            "price_s": "1.6折",
+            "book_img": "http://img3m5.ddimg.cn/43/25/1900564225-1_l_5.jpg"
+        },
+        {
+            "name": "调控坏情绪，定格好心情",
+            "author": "亦辛",
+            "publica_date": "2010-10-01",
+            "publishing_group": "蓝天出版社",
+            "price_n": "¥9.47",
+            "price_r": "¥35.00",
+            "price_s": "2.7折",
+            "book_img": "http://img3m0.ddimg.cn/89/36/1900546550-1_l_4.jpg"
+        },
+        {
+            "name": "北上广女子图鉴",
+            "author": "王小圈",
+            "publica_date": "2018-11-01",
+            "publishing_group": "百花洲文艺出版社",
+            "price_n": "¥14.99",
+            "price_r": "¥14.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m9.ddimg.cn/45/21/1901104569-1_l_3.jpg"
+        },
+        {
+            "name": "小学问 : 解决你的7种人生焦虑",
+            "author": "马薇薇邱晨周玄毅黄执中胡渐彪",
+            "publica_date": "2018-01-16",
+            "publishing_group": "北京联合出版有限公司",
+            "price_n": "¥9.99",
+            "price_r": "¥52.00",
+            "price_s": "1.9折",
+            "book_img": "http://img3m5.ddimg.cn/53/33/1900776095-1_l_2.jpg"
+        },
+        {
+            "name": "最受欢迎的北大通选课导读·1[精品]",
+            "author": "北京大学出版社",
+            "publica_date": "2018-01-01",
+            "publishing_group": "",
+            "price_n": "¥0.01",
+            "price_r": "¥0.01",
+            "price_s": "10.0折",
+            "book_img": "http://img3m6.ddimg.cn/91/33/1900775836-1_l_1.jpg"
+        },
+        {
+            "name": "影响力大师：如何调动团队力量(原书第2版)",
+            "author": "约瑟夫·格雷尼JosephGrenny",
+            "publica_date": "",
+            "publishing_group": "机械工业出版社",
+            "price_n": "¥29.25",
+            "price_r": "¥29.25",
+            "price_s": "10.0折",
+            "book_img": "http://img3m1.ddimg.cn/55/6/1901130121-1_l_1.jpg"
+        },
+        {
+            "name": "九型人格·珍藏版——美国中央情报局的识人指南，海伦·帕尔默权...",
+            "author": "海伦·帕尔默",
+            "publica_date": "2017-03-01",
+            "publishing_group": "华夏出版社",
+            "price_n": "¥15.70",
+            "price_r": "¥15.70",
+            "price_s": "10.0折",
+            "book_img": "http://img3m5.ddimg.cn/75/0/1901129745-1_l_2.jpg"
+        },
+        {
+            "name": "我离婚了——帮你正确看待和面对离婚这件事",
+            "author": "晏凌羊",
+            "publica_date": "",
+            "publishing_group": "机械工业出版社",
+            "price_n": "¥22.90",
+            "price_r": "¥22.90",
+            "price_s": "10.0折",
+            "book_img": "http://img3m1.ddimg.cn/30/4/1901129601-1_l_1.jpg"
+        },
+        {
+            "name": "出众，从改变习惯开始：迈向卓越人生的七大习惯法则！",
+            "author": "马克·列克劳MarcReklau",
+            "publica_date": "",
+            "publishing_group": "中国友谊出版公司",
+            "price_n": "¥8.99",
+            "price_r": "¥19.99",
+            "price_s": "4.5折",
+            "book_img": "http://img3m6.ddimg.cn/52/25/1901129326-1_l_2.jpg"
+        },
+        {
+            "name": "世事如书，我只爱你这一句",
+            "author": "特立独行的猪先生",
+            "publica_date": "2019-05-01",
+            "publishing_group": "电子工业出版社",
+            "price_n": "¥22.74",
+            "price_r": "¥29.40",
+            "price_s": "7.7折",
+            "book_img": "http://img3m9.ddimg.cn/34/19/1901129209-1_l_2.jpg"
+        },
+        {
+            "name": "赢在上班时：27条实现个人跃迁的顶层逻辑",
+            "author": "高城幸司",
+            "publica_date": "2019-03-01",
+            "publishing_group": "中国友谊出版公司",
+            "price_n": "¥18.81",
+            "price_r": "¥18.99",
+            "price_s": "9.9折",
+            "book_img": "http://img3m0.ddimg.cn/90/10/1901109960-1_l_2.jpg"
+        },
+        {
+            "name": "聪明人极简图表工作法",
+            "author": "高桥政史易哲",
+            "publica_date": "",
+            "publishing_group": "湖南文艺出版社",
+            "price_n": "¥19.99",
+            "price_r": "¥38.00",
+            "price_s": "5.3折",
+            "book_img": "http://img3m7.ddimg.cn/58/36/1901094187-1_l_1.jpg"
+        },
+        {
+            "name": "最富足的投资",
+            "author": "吉姆·罗杰斯",
+            "publica_date": "2017-12-01",
+            "publishing_group": "民主与建设出版社",
+            "price_n": "¥9.99",
+            "price_r": "¥45.00",
+            "price_s": "2.2折",
+            "book_img": "http://img3m5.ddimg.cn/3/31/1900782975-1_l_4.jpg"
+        },
+        {
+            "name": "斯坦福大学人生设计课",
+            "author": "比尔·柏奈特戴夫·伊万斯",
+            "publica_date": "2017-12-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥11.99",
+            "price_r": "¥49.00",
+            "price_s": "2.4折",
+            "book_img": "http://img3m5.ddimg.cn/54/2/1900770255-1_l_2.jpg"
+        },
+        {
+            "name": "自我管理(套装共4册)",
+            "author": "迈克尔·赫佩尔MichaelHeppell",
+            "publica_date": "2017-11-01",
+            "publishing_group": "人民邮电出版社",
+            "price_n": "¥30.99",
+            "price_r": "¥245.85",
+            "price_s": "1.3折",
+            "book_img": "http://img3m5.ddimg.cn/31/21/1900757065-1_l_1.jpg"
+        },
+        {
+            "name": "哈佛的6堂独立思考课：精英们都在学的自我意见建立法",
+            "author": "狩野未希",
+            "publica_date": "2017-04-01",
+            "publishing_group": "江西人民出版社",
+            "price_n": "¥7.99",
+            "price_r": "¥36.00",
+            "price_s": "2.2折",
+            "book_img": "http://img3m9.ddimg.cn/46/10/1900738369-1_l_1.jpg"
+        },
+        {
+            "name": "超级学霸：受用终身的速效学习法",
+            "author": "奥拉夫·舍韦OlavSchewe",
+            "publica_date": "2017-09-01",
+            "publishing_group": "机械工业出版社",
+            "price_n": "¥9.99",
+            "price_r": "¥49.00",
+            "price_s": "2.0折",
+            "book_img": "http://img3m6.ddimg.cn/74/5/1900728596-1_l_1.jpg"
+        },
+        {
+            "name": "非暴力沟通",
+            "author": "马歇尔·卢森堡MarshallB.Rosenberg",
+            "publica_date": "2016-01-01",
+            "publishing_group": "华夏出版社",
+            "price_n": "¥6.99",
+            "price_r": "¥33.00",
+            "price_s": "2.1折",
+            "book_img": "http://img3m0.ddimg.cn/76/24/1900700680-1_l_3.jpg"
+        },
+        {
+            "name": "你自以为的极限，只是别人的起点",
+            "author": "特立独行的猫",
+            "publica_date": "2017-05-01",
+            "publishing_group": "武汉出版社",
+            "price_n": "¥1.99",
+            "price_r": "¥39.80",
+            "price_s": "0.5折",
+            "book_img": "http://img3m6.ddimg.cn/72/20/1900700676-1_l_7.jpg"
+        },
+        {
+            "name": "一眼识破真相的思考力",
+            "author": "丹尼尔·列维汀",
+            "publica_date": "2018-11-01",
+            "publishing_group": "中信出版集团股份有限公司",
+            "price_n": "¥12.99",
+            "price_r": "¥33.00",
+            "price_s": "3.9折",
+            "book_img": "http://img3m4.ddimg.cn/28/27/1901100394-1_l_3.jpg"
+        },
+        {
+            "name": "亲密关系续篇：无拘无束的关系",
+            "author": "克里斯多福·孟",
+            "publica_date": "2018-04-01",
+            "publishing_group": "中华工商联合出版社",
+            "price_n": "¥19.99",
+            "price_r": "¥45.00",
+            "price_s": "4.4折",
+            "book_img": "http://img3m6.ddimg.cn/80/17/1901074706-1_l_2.jpg"
+        },
+        {
+            "name": "能力都是逼出来的",
+            "author": "布兰登·伯查德王冬佳",
+            "publica_date": "2018-03-01",
+            "publishing_group": "中国友谊出版公司",
+            "price_n": "¥9.99",
+            "price_r": "¥39.80",
+            "price_s": "2.5折",
+            "book_img": "http://img3m4.ddimg.cn/82/2/1900978084-1_l_3.jpg"
+        },
+        {
+            "name": "人生需要高级感",
+            "author": "西风南浦",
+            "publica_date": "",
+            "publishing_group": "青岛出版社",
+            "price_n": "¥19.00",
+            "price_r": "¥19.00",
+            "price_s": "10.0折",
+            "book_img": "http://img3m5.ddimg.cn/2/11/1901136305-1_l_1.jpg"
+        },
+        {
+            "name": "优雅女人的气质修炼法则(套装共11册)",
+            "author": "苏瑾紫檀马丽孔勉",
+            "publica_date": "",
+            "publishing_group": "新世界出版社;现代出版社;江苏人民出版社",
+            "price_n": "¥114.99",
+            "price_r": "¥114.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m4.ddimg.cn/59/36/1901134184-1_l_1.jpg"
+        },
+        {
+            "name": "高绩效心智",
+            "author": "安妮",
+            "publica_date": "",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥12.80",
+            "price_r": "¥42.00",
+            "price_s": "3.0折",
+            "book_img": "http://img3m9.ddimg.cn/65/29/1901130329-1_l_1.jpg"
+        },
+        {
+            "name": "正面沟通：非暴力化解冲突的语言技巧",
+            "author": "胡峰",
+            "publica_date": "2017-12-01",
+            "publishing_group": "古吴轩出版社",
+            "price_n": "¥12.99",
+            "price_r": "¥42.00",
+            "price_s": "3.1折",
+            "book_img": "http://img3m1.ddimg.cn/82/8/1900961551-1_l_5.jpg"
+        },
+        {
+            "name": "99%的新人，没用心做好的50件事",
+            "author": "弗兰克·J·法博齐",
+            "publica_date": "2015-06-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥13.99",
+            "price_r": "¥45.00",
+            "price_s": "3.1折",
+            "book_img": "http://img3m3.ddimg.cn/52/23/1900714813-1_l_1.jpg"
+        },
+        {
+            "name": "戒了吧，拖延症——写给年轻人的拖延心理学",
+            "author": "辰格",
+            "publica_date": "2013-10-01",
+            "publishing_group": "天津人民出版社",
+            "price_n": "¥4.99",
+            "price_r": "¥32.80",
+            "price_s": "1.5折",
+            "book_img": "http://img3m2.ddimg.cn/23/16/1900713992-1_l_1.jpg"
+        },
+        {
+            "name": "逆转思维",
+            "author": "姚颖",
+            "publica_date": "2017-04-01",
+            "publishing_group": "中国言实出版社",
+            "price_n": "¥0.99",
+            "price_r": "¥35.00",
+            "price_s": "0.3折",
+            "book_img": "http://img3m7.ddimg.cn/57/5/1900707987-1_l_1.jpg"
+        },
+        {
+            "name": "你要么出众，要么出局(李尚龙2017年全新力作)",
+            "author": "李尚龙",
+            "publica_date": "2017-02-01",
+            "publishing_group": "湖南文艺出版社",
+            "price_n": "¥17.98",
+            "price_r": "¥40.00",
+            "price_s": "4.5折",
+            "book_img": "http://img3m1.ddimg.cn/65/14/1900682651-1_l_3.jpg"
+        },
+        {
+            "name": "按自己的意愿过一生",
+            "author": "王潇",
+            "publica_date": "2016-01-01",
+            "publishing_group": "浙江文艺出版社",
+            "price_n": "¥4.99",
+            "price_r": "¥39.00",
+            "price_s": "1.3折",
+            "book_img": "http://img3m3.ddimg.cn/17/12/1900535093-1_l_8.jpg"
+        },
+        {
+            "name": "幸福的方法(电子书)",
+            "author": "泰勒·本沙哈尔",
+            "publica_date": "2013-01-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥8.99",
+            "price_r": "¥28.00",
+            "price_s": "3.2折",
+            "book_img": "http://img3m4.ddimg.cn/67/3/1900510294-1_l_3.jpg"
+        },
+        {
+            "name": "越独立，越高贵：把一个人的生活过得光芒万丈",
+            "author": "格姐",
+            "publica_date": "2019-03-01",
+            "publishing_group": "中国友谊出版公司",
+            "price_n": "¥8.99",
+            "price_r": "¥18.99",
+            "price_s": "4.7折",
+            "book_img": "http://img3m0.ddimg.cn/79/22/1901116780-1_l_2.jpg"
+        },
+        {
+            "name": "思维精进：改变一生的高效思考法(如何用最聪明的方式解决工作中遇...",
+            "author": "赵帅王姗姗",
+            "publica_date": "2018-10-01",
+            "publishing_group": "北京联合出版有限公司",
+            "price_n": "¥17.82",
+            "price_r": "¥19.75",
+            "price_s": "9.0折",
+            "book_img": "http://img3m4.ddimg.cn/62/15/1901108744-1_l_2.jpg"
+        },
+        {
+            "name": "你要如何衡量你的人生：舒适阅读版",
+            "author": "克莱顿·克里斯坦森",
+            "publica_date": "2018-07-24",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥9.99",
+            "price_r": "¥49.80",
+            "price_s": "2.0折",
+            "book_img": "http://img3m6.ddimg.cn/91/14/1901103526-1_l_1.jpg"
+        },
+        {
+            "name": "深度连接：让优秀的人都为你所用",
+            "author": "杰西·沃伦·特维罗",
+            "publica_date": "2018-07-01",
+            "publishing_group": "九州出版社",
+            "price_n": "¥27.99",
+            "price_r": "¥42.00",
+            "price_s": "6.7折",
+            "book_img": "http://img3m5.ddimg.cn/79/19/1901086585-1_l_2.jpg"
+        },
+        {
+            "name": "所谓人际高手，就是让人舒服",
+            "author": "乔治·戴德",
+            "publica_date": "2018-07-01",
+            "publishing_group": "江苏凤凰文艺出版社",
+            "price_n": "¥10.99",
+            "price_r": "¥42.00",
+            "price_s": "2.6折",
+            "book_img": "http://img3m4.ddimg.cn/59/21/1901074784-1_l_2.jpg"
+        },
+        {
+            "name": "我这么自律，就是为了不平庸至死",
+            "author": "怀左同学",
+            "publica_date": "2018-04-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥9.90",
+            "price_r": "¥38.00",
+            "price_s": "2.6折",
+            "book_img": "http://img3m3.ddimg.cn/64/18/1901072413-1_l_1.jpg"
+        },
+        {
+            "name": "如何优雅地挽回前任",
+            "author": "林孑",
+            "publica_date": "2018-04-01",
+            "publishing_group": "时代华文书局",
+            "price_n": "¥5.99",
+            "price_r": "¥42.00",
+            "price_s": "1.4折",
+            "book_img": "http://img3m2.ddimg.cn/15/0/1901070582-1_l_2.jpg"
+        },
+        {
+            "name": "记忆宫殿：一本书快速提升记忆力",
+            "author": "宁梓亦",
+            "publica_date": "2017-08-01",
+            "publishing_group": "中国纺织出版社",
+            "price_n": "¥12.00",
+            "price_r": "¥39.80",
+            "price_s": "3.0折",
+            "book_img": "http://img3m0.ddimg.cn/27/10/1901070000-1_l_2.jpg"
+        },
+        {
+            "name": "和时间做朋友：你一定要学的高效时间管理术",
+            "author": "李泽文",
+            "publica_date": "2017-09-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥11.90",
+            "price_r": "¥39.80",
+            "price_s": "3.0折",
+            "book_img": "http://img3m0.ddimg.cn/80/8/1900738700-1_l_1.jpg"
+        },
+        {
+            "name": "图解思维导图：一种革命性的思维工具",
+            "author": "白虹",
+            "publica_date": "2016-09-01",
+            "publishing_group": "中国华侨出版社",
+            "price_n": "¥1.00",
+            "price_r": "¥39.80",
+            "price_s": "0.3折",
+            "book_img": "http://img3m7.ddimg.cn/92/9/1900676837-1_l_1.jpg"
+        },
+        {
+            "name": "把时间浪费在好玩的事情上（新精英生涯002）",
+            "author": "古典",
+            "publica_date": "2016-05-01",
+            "publishing_group": "",
+            "price_n": "¥1.00",
+            "price_r": "¥30.00",
+            "price_s": "0.3折",
+            "book_img": "http://img3m6.ddimg.cn/53/19/1900563146-1_l_4.jpg"
+        },
+        {
+            "name": "不换思想就换人：一本妙趣横生的创意思考训练书",
+            "author": "蒂姆·赫森Hurson",
+            "publica_date": "2009-07-01",
+            "publishing_group": "机械工业出版社",
+            "price_n": "¥18.00",
+            "price_r": "¥36.00",
+            "price_s": "5.0折",
+            "book_img": "http://img3m9.ddimg.cn/51/11/1900411179-1_l_1.jpg"
+        },
+        {
+            "name": "认知：所谓成长就是认知升级",
+            "author": "吴建平",
+            "publica_date": "",
+            "publishing_group": "中国友谊出版公司",
+            "price_n": "¥12.99",
+            "price_r": "¥12.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m0.ddimg.cn/7/16/1901136310-1_l_1.jpg"
+        },
+        {
+            "name": "精进（全二册）",
+            "author": "采铜",
+            "publica_date": "2019-06-01",
+            "publishing_group": "江苏凤凰文艺出版社",
+            "price_n": "¥19.99",
+            "price_r": "¥60.99",
+            "price_s": "3.3折",
+            "book_img": "http://img3m3.ddimg.cn/24/20/1901128803-1_l_1.jpg"
+        },
+        {
+            "name": "精进：如何成为一个很厉害的人(2019年修订版)(知乎604939个赞同认...",
+            "author": "采铜",
+            "publica_date": "",
+            "publishing_group": "江苏凤凰文艺出版社",
+            "price_n": "¥7.99",
+            "price_r": "¥26.40",
+            "price_s": "3.0折",
+            "book_img": "http://img3m4.ddimg.cn/3/32/1901127594-1_l_1.jpg"
+        },
+        {
+            "name": "拆掉思维的墙(套装9册)",
+            "author": "古典卢斯卡",
+            "publica_date": "",
+            "publishing_group": "北京联合出版有限公司",
+            "price_n": "¥88.99",
+            "price_r": "¥88.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m7.ddimg.cn/42/8/1901127237-1_l_1.jpg"
+        },
+        {
+            "name": "女人自省之书(套装共5册)",
+            "author": "吕夏乔",
+            "publica_date": "",
+            "publishing_group": "贵州人民出版社",
+            "price_n": "¥88.99",
+            "price_r": "¥119.99",
+            "price_s": "7.4折",
+            "book_img": "http://img3m6.ddimg.cn/88/31/1901113126-1_l_1.jpg"
+        },
+        {
+            "name": "学一次用一辈子的思维导图",
+            "author": "孙易新",
+            "publica_date": "",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥11.95",
+            "price_r": "¥19.92",
+            "price_s": "6.0折",
+            "book_img": "http://img3m0.ddimg.cn/79/21/1901112820-1_l_1.jpg"
+        },
+        {
+            "name": "幸福的勇气：“自我启发之父”阿德勒的哲学课2",
+            "author": "岸见一郎古贺史健渠海霞",
+            "publica_date": "2017-05-01",
+            "publishing_group": "机械工业出版社",
+            "price_n": "¥19.90",
+            "price_r": "¥29.90",
+            "price_s": "6.7折",
+            "book_img": "http://img3m2.ddimg.cn/83/19/1901111042-1_l_3.jpg"
+        },
+        {
+            "name": "超级快速阅读",
+            "author": "格吕宁",
+            "publica_date": "2015-08-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥6.99",
+            "price_r": "¥35.00",
+            "price_s": "2.0折",
+            "book_img": "http://img3m9.ddimg.cn/15/30/1900746159-1_l_1.jpg"
+        },
+        {
+            "name": "极简主义(乔布斯、扎克伯格奉行的生活方式)",
+            "author": "乔舒亚·菲尔茨·米尔本瑞安·尼科迪默斯李紫",
+            "publica_date": "2017-05-01",
+            "publishing_group": "湖南文艺出版社",
+            "price_n": "¥8.99",
+            "price_r": "¥39.00",
+            "price_s": "2.3折",
+            "book_img": "http://img3m3.ddimg.cn/41/28/1900693913-1_l_1.jpg"
+        },
+        {
+            "name": "聪明人用方格笔记本",
+            "author": "高桥政史",
+            "publica_date": "2015-06-01",
+            "publishing_group": "湖南文艺出版社",
+            "price_n": "¥17.99",
+            "price_r": "¥38.00",
+            "price_s": "4.7折",
+            "book_img": "http://img3m8.ddimg.cn/7/3/1900557358-1_l_8.jpg"
+        },
+        {
+            "name": "表达力练习题",
+            "author": "奥里森·斯威特·马登",
+            "publica_date": "2014-02-01",
+            "publishing_group": "天津人民出版社",
+            "price_n": "¥8.02",
+            "price_r": "¥35.00",
+            "price_s": "2.3折",
+            "book_img": "http://img3m5.ddimg.cn/80/31/1900555055-1_l_2.jpg"
+        },
+        {
+            "name": "女人的格局决定结局",
+            "author": "卡耐基",
+            "publica_date": "2015-01-01",
+            "publishing_group": "时代文艺出版社",
+            "price_n": "¥5.25",
+            "price_r": "¥35.00",
+            "price_s": "1.5折",
+            "book_img": "http://img3m1.ddimg.cn/34/1/1900449871-1_l_1.jpg"
+        },
+        {
+            "name": "超级记忆力训练法",
+            "author": "刘志华",
+            "publica_date": "2014-10-01",
+            "publishing_group": "中国纺织出版社",
+            "price_n": "¥1.99",
+            "price_r": "¥33.00",
+            "price_s": "0.6折",
+            "book_img": "http://img3m7.ddimg.cn/39/9/1900377507-1_l_5.jpg"
+        },
+        {
+            "name": "当时忍住就好了【插图典藏版】",
+            "author": "肯·林德纳",
+            "publica_date": "2018-12-01",
+            "publishing_group": "江苏凤凰文艺出版社",
+            "price_n": "¥11.99",
+            "price_r": "¥26.99",
+            "price_s": "4.4折",
+            "book_img": "http://img3m3.ddimg.cn/31/29/1901103763-1_l_5.jpg"
+        },
+        {
+            "name": "洋葱阅读法",
+            "author": "彭小六",
+            "publica_date": "2018-06-27",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥17.01",
+            "price_r": "¥48.00",
+            "price_s": "3.5折",
+            "book_img": "http://img3m2.ddimg.cn/77/0/1901103512-1_l_1.jpg"
+        },
+        {
+            "name": "最重要的事，只有一件(电子书)",
+            "author": "凯勒帕帕森",
+            "publica_date": "2015-10-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥17.99",
+            "price_r": "¥35.00",
+            "price_s": "5.1折",
+            "book_img": "http://img3m4.ddimg.cn/56/26/1900560674-1_l_5.jpg"
+        },
+        {
+            "name": "狼道全集：卓越个人.团队.企业的狼性法则",
+            "author": "马剑涛",
+            "publica_date": "2010-12-01",
+            "publishing_group": "中国华侨出版社",
+            "price_n": "¥5.99",
+            "price_r": "¥29.80",
+            "price_s": "2.0折",
+            "book_img": "http://img3m3.ddimg.cn/6/29/1900451823-1_l_3.jpg"
+        },
+        {
+            "name": "世界上最神奇的24堂课(升级版)",
+            "author": "查尔斯·哈奈尔",
+            "publica_date": "2013-09-01",
+            "publishing_group": "新世界出版社",
+            "price_n": "¥1.00",
+            "price_r": "¥5.99",
+            "price_s": "1.7折",
+            "book_img": "http://img3m2.ddimg.cn/28/14/1900338292-1_l_1.jpg"
+        },
+        {
+            "name": "曾仕强说人性的弱点",
+            "author": "曾仕强",
+            "publica_date": "2009-01-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥1.99",
+            "price_r": "¥9.60",
+            "price_s": "2.1折",
+            "book_img": "http://img3m0.ddimg.cn/92/6/1900302320-1_l_1.jpg"
+        },
+        {
+            "name": "生活需要节奏感",
+            "author": "李思圆",
+            "publica_date": "2019-01-01",
+            "publishing_group": "天津人民出版社",
+            "price_n": "¥12.90",
+            "price_r": "¥18.00",
+            "price_s": "7.2折",
+            "book_img": "http://img3m6.ddimg.cn/60/26/1901116266-1_l_2.jpg"
+        },
+        {
+            "name": "表达力",
+            "author": "贺嘉",
+            "publica_date": "",
+            "publishing_group": "文化发展出版公司",
+            "price_n": "¥19.92",
+            "price_r": "¥19.92",
+            "price_s": "10.0折",
+            "book_img": "http://img3m4.ddimg.cn/95/8/1901129864-1_l_1.jpg"
+        },
+        {
+            "name": "忙要忙到点子上",
+            "author": "宿春礼张艳红",
+            "publica_date": "",
+            "publishing_group": "华夏出版社",
+            "price_n": "¥7.99",
+            "price_r": "¥7.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m4.ddimg.cn/96/3/1901117094-1_l_1.jpg"
+        },
+        {
+            "name": "如何有效整理信息",
+            "author": "奥野宣之",
+            "publica_date": "2017-10-01",
+            "publishing_group": "江西人民出版社",
+            "price_n": "¥7.99",
+            "price_r": "¥36.00",
+            "price_s": "2.2折",
+            "book_img": "http://img3m5.ddimg.cn/53/6/1900742435-1_l_1.jpg"
+        },
+        {
+            "name": "魔鬼聊天术",
+            "author": "阮琦",
+            "publica_date": "2017-06-01",
+            "publishing_group": "北京联合出版有限公司",
+            "price_n": "¥6.99",
+            "price_r": "¥39.80",
+            "price_s": "1.8折",
+            "book_img": "http://img3m2.ddimg.cn/31/14/1900689052-1_l_1.jpg"
+        },
+        {
+            "name": "卡耐基说话技巧与人际交往",
+            "author": "卡耐基",
+            "publica_date": "2014-11-01",
+            "publishing_group": "北京时代华文书局",
+            "price_n": "¥6.98",
+            "price_r": "¥32.00",
+            "price_s": "2.2折",
+            "book_img": "http://img3m0.ddimg.cn/38/3/1900496900-1_l_6.jpg"
+        },
+        {
+            "name": "不犯怵！说话的分寸",
+            "author": "李利平张健",
+            "publica_date": "2014-04-01",
+            "publishing_group": "中国时代经济出版社",
+            "price_n": "¥6.08",
+            "price_r": "¥28.00",
+            "price_s": "2.2折",
+            "book_img": "http://img3m3.ddimg.cn/29/5/1900481843-1_l_2.jpg"
+        },
+        {
+            "name": "你没有错，只是太弱",
+            "author": "李雪",
+            "publica_date": "2018-10-01",
+            "publishing_group": "山东文艺出版社",
+            "price_n": "¥19.99",
+            "price_r": "¥19.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m2.ddimg.cn/23/21/1901100092-1_l_2.jpg"
+        },
+        {
+            "name": "为什么精英这样用脑不会累",
+            "author": "桦泽紫苑",
+            "publica_date": "2018-07-01",
+            "publishing_group": "湖南文艺出版社",
+            "price_n": "¥9.90",
+            "price_r": "¥45.00",
+            "price_s": "2.2折",
+            "book_img": "http://img3m1.ddimg.cn/77/30/1901086781-1_l_1.jpg"
+        },
+        {
+            "name": "1%法则",
+            "author": "汤姆·康奈兰",
+            "publica_date": "2018-07-01",
+            "publishing_group": "九州出版社",
+            "price_n": "¥27.99",
+            "price_r": "¥42.00",
+            "price_s": "6.7折",
+            "book_img": "http://img3m3.ddimg.cn/77/17/1901086583-1_l_2.jpg"
+        },
+        {
+            "name": "极简幸福：摆脱15个让你远离幸福的思维误区",
+            "author": "卢米尼塔·D.萨维克",
+            "publica_date": "2018-09-01",
+            "publishing_group": "中国友谊出版公司",
+            "price_n": "¥18.99",
+            "price_r": "¥42.00",
+            "price_s": "4.5折",
+            "book_img": "http://img3m2.ddimg.cn/5/31/1901086412-1_l_2.jpg"
+        },
+        {
+            "name": "兴趣变现——内容营销之父教你打造有“趣”的个人IP",
+            "author": "乔·普利兹孙庆磊",
+            "publica_date": "2018-06-15",
+            "publishing_group": "中国人民大学出版社",
+            "price_n": "¥29.40",
+            "price_r": "¥49.00",
+            "price_s": "6.0折",
+            "book_img": "http://img3m8.ddimg.cn/58/6/1901074288-1_l_2.jpg"
+        },
+        {
+            "name": "别用嘴上的佛系，掩饰你内心的焦虑",
+            "author": "朱清",
+            "publica_date": "2018-07-01",
+            "publishing_group": "江苏凤凰文艺出版社",
+            "price_n": "¥11.94",
+            "price_r": "¥39.80",
+            "price_s": "3.0折",
+            "book_img": "http://img3m7.ddimg.cn/92/7/1901071847-1_l_2.jpg"
+        },
+        {
+            "name": "巨人的工具",
+            "author": "蒂姆·费里斯",
+            "publica_date": "",
+            "publishing_group": "中信出版社",
+            "price_n": "¥16.99",
+            "price_r": "¥76.80",
+            "price_s": "2.2折",
+            "book_img": "http://img3m4.ddimg.cn/42/23/1901109714-1_l_1.jpg"
+        },
+        {
+            "name": "加速",
+            "author": "张萌",
+            "publica_date": "",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥24.90",
+            "price_r": "¥49.80",
+            "price_s": "5.0折",
+            "book_img": "http://img3m0.ddimg.cn/75/35/1901103510-1_l_1.jpg"
+        },
+        {
+            "name": "一本小小的金色语法书",
+            "author": "布兰登·罗伊尔",
+            "publica_date": "2017-09-01",
+            "publishing_group": "九州出版社",
+            "price_n": "¥9.59",
+            "price_r": "¥39.80",
+            "price_s": "2.4折",
+            "book_img": "http://img3m1.ddimg.cn/24/22/1900719141-1_l_1.jpg"
+        },
+        {
+            "name": "卡耐基人际交往心理学：别输在不懂人情世故上",
+            "author": "戴尔·卡耐基张然",
+            "publica_date": "2017-05-01",
+            "publishing_group": "中国国际广播出版社",
+            "price_n": "¥9.99",
+            "price_r": "¥39.80",
+            "price_s": "2.5折",
+            "book_img": "http://img3m8.ddimg.cn/13/6/1900684678-1_l_1.jpg"
+        },
+        {
+            "name": "破解快乐密码",
+            "author": "亦辛",
+            "publica_date": "2010-12-01",
+            "publishing_group": "中国纺织出版社",
+            "price_n": "¥6.17",
+            "price_r": "¥32.80",
+            "price_s": "1.9折",
+            "book_img": "http://img3m2.ddimg.cn/81/28/1900546542-1_l_4.jpg"
+        },
+        {
+            "name": "人际的奥秘：曾仕强告诉你如何搞好人际关系",
+            "author": "曾仕强",
+            "publica_date": "2015-01-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥4.80",
+            "price_r": "¥49.00",
+            "price_s": "1.0折",
+            "book_img": "http://img3m3.ddimg.cn/83/17/1900396163-1_l_1.jpg"
+        },
+        {
+            "name": "思考致富：拿破仑·希尔成功圣经",
+            "author": "拿破仑希尔",
+            "publica_date": "2014-02-01",
+            "publishing_group": "中国发展出版社",
+            "price_n": "¥1.00",
+            "price_r": "¥25.00",
+            "price_s": "0.4折",
+            "book_img": "http://img3m5.ddimg.cn/84/14/1900332705-1_l_1.jpg"
+        },
+        {
+            "name": "余生好贵，请勿浪费",
+            "author": "特立独行的猫",
+            "publica_date": "2018-10-01",
+            "publishing_group": "江苏凤凰文艺出版社",
+            "price_n": "¥9.90",
+            "price_r": "¥39.80",
+            "price_s": "2.5折",
+            "book_img": "http://img3m8.ddimg.cn/59/25/1901083298-1_l_2.jpg"
+        },
+        {
+            "name": "精英进阶课(套装共5册)",
+            "author": "艾里威廉·麦独孤肖剑科里夏纳罕",
+            "publica_date": "",
+            "publishing_group": "中国友谊出版公司,台海出版社,民主与建设出版社,中国友谊出版公司",
+            "price_n": "¥118.00",
+            "price_r": "¥118.00",
+            "price_s": "10.0折",
+            "book_img": "http://img3m2.ddimg.cn/12/21/1901132652-1_l_1.jpg"
+        },
+        {
+            "name": "极简时间：如何从忙乱到时间自由",
+            "author": "洛塔尔·赛韦特LotharSeiwert",
+            "publica_date": "",
+            "publishing_group": "机械工业出版社",
+            "price_n": "¥25.00",
+            "price_r": "¥31.85",
+            "price_s": "7.8折",
+            "book_img": "http://img3m0.ddimg.cn/28/24/1901132470-1_l_1.jpg"
+        },
+        {
+            "name": "思维导图阅读法",
+            "author": "胡雅茹",
+            "publica_date": "2016-10-01",
+            "publishing_group": "时代华文书局",
+            "price_n": "¥9.99",
+            "price_r": "¥35.00",
+            "price_s": "2.9折",
+            "book_img": "http://img3m9.ddimg.cn/54/11/1900981719-1_l_3.jpg"
+        },
+        {
+            "name": "如何改变习惯：手把手教你用30天计划法改变95%的习惯",
+            "author": "斯科特·扬ScottYoung",
+            "publica_date": "2016-03-01",
+            "publishing_group": "机械工业出版社",
+            "price_n": "¥13.99",
+            "price_r": "¥25.00",
+            "price_s": "5.6折",
+            "book_img": "http://img3m7.ddimg.cn/31/8/1900573717-1_l_2.jpg"
+        },
+        {
+            "name": "高效写作——培养终身受用的写作力",
+            "author": "",
+            "publica_date": "2019-05-01",
+            "publishing_group": "人民邮电出版社",
+            "price_n": "¥22.50",
+            "price_r": "¥22.50",
+            "price_s": "10.0折",
+            "book_img": "http://img3m7.ddimg.cn/29/13/1901128907-1_l_2.jpg"
+        },
+        {
+            "name": "掌控关系",
+            "author": "格雷琴·鲁宾",
+            "publica_date": "2019-01-01",
+            "publishing_group": "中信出版集团股份有限公司",
+            "price_n": "¥13.99",
+            "price_r": "¥34.80",
+            "price_s": "4.0折",
+            "book_img": "http://img3m0.ddimg.cn/60/27/1901112900-1_l_4.jpg"
+        },
+        {
+            "name": "情绪",
+            "author": "莉莎·费德曼·巴瑞特",
+            "publica_date": "2019-02-01",
+            "publishing_group": "中信出版集团股份有限公司",
+            "price_n": "¥16.99",
+            "price_r": "¥40.80",
+            "price_s": "4.2折",
+            "book_img": "http://img3m7.ddimg.cn/35/26/1901112677-1_l_2.jpg"
+        },
+        {
+            "name": "有话说 崔永元重磅新作",
+            "author": "崔永元",
+            "publica_date": "2018-12-26",
+            "publishing_group": "浙江人民出版社",
+            "price_n": "¥16.98",
+            "price_r": "¥52.00",
+            "price_s": "3.3折",
+            "book_img": "http://img3m1.ddimg.cn/28/29/1901104651-1_l_2.jpg"
+        },
+        {
+            "name": "会说话就是硬实力",
+            "author": "向登付",
+            "publica_date": "2018-05-01",
+            "publishing_group": "沈阳出版社",
+            "price_n": "¥9.90",
+            "price_r": "¥39.80",
+            "price_s": "2.5折",
+            "book_img": "http://img3m7.ddimg.cn/43/13/1901080807-1_l_1.jpg"
+        },
+        {
+            "name": "情商高，就是说话让人舒服书系(套装3册)",
+            "author": "朱凌常清",
+            "publica_date": "2018-03-01",
+            "publishing_group": "延边大学出版社",
+            "price_n": "¥29.99",
+            "price_r": "¥115.00",
+            "price_s": "2.6折",
+            "book_img": "http://img3m7.ddimg.cn/16/4/1901075137-1_l_2.jpg"
+        },
+        {
+            "name": "NLP思维：高效人士都在用的影响力沟通技能",
+            "author": "杰里米·拉萨路陶尚芸",
+            "publica_date": "2018-08-01",
+            "publishing_group": "台海出版社",
+            "price_n": "¥6.99",
+            "price_r": "¥45.00",
+            "price_s": "1.6折",
+            "book_img": "http://img3m9.ddimg.cn/22/26/1901072569-1_l_3.jpg"
+        },
+        {
+            "name": "统计学关我什么事：生活中的极简统计学",
+            "author": "小岛宽之",
+            "publica_date": "2018-07-01",
+            "publishing_group": "时代华文书局",
+            "price_n": "¥8.99",
+            "price_r": "¥48.00",
+            "price_s": "1.9折",
+            "book_img": "http://img3m4.ddimg.cn/14/26/1901071274-1_l_2.jpg"
+        },
+        {
+            "name": "与真实的自己和解(不是对现实妥协，而是全然接纳和善待自己)",
+            "author": "蒂姆·德斯蒙德陆霓",
+            "publica_date": "2018-03-01",
+            "publishing_group": "台海出版社",
+            "price_n": "¥3.99",
+            "price_r": "¥42.00",
+            "price_s": "1.0折",
+            "book_img": "http://img3m0.ddimg.cn/73/17/1900981540-1_l_2.jpg"
+        },
+        {
+            "name": "图形思考与表达的20堂课",
+            "author": "久恒启一",
+            "publica_date": "",
+            "publishing_group": "江西人民出版社",
+            "price_n": "¥12.99",
+            "price_r": "¥22.80",
+            "price_s": "5.7折",
+            "book_img": "http://img3m1.ddimg.cn/1/0/1901129671-1_l_1.jpg"
+        },
+        {
+            "name": "你的努力，终将战胜这残酷世界",
+            "author": "随风",
+            "publica_date": "",
+            "publishing_group": "煤炭工业出版社",
+            "price_n": "¥16.99",
+            "price_r": "¥16.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m7.ddimg.cn/73/22/1901107567-1_l_1.jpg"
+        },
+        {
+            "name": "远离迷茫，从学会赚钱开始",
+            "author": "曾鹏宇",
+            "publica_date": "2019-03-21",
+            "publishing_group": "中国友谊出版公司",
+            "price_n": "¥18.00",
+            "price_r": "¥18.00",
+            "price_s": "10.0折",
+            "book_img": "http://img3m3.ddimg.cn/49/28/1901116453-1_l_2.jpg"
+        },
+        {
+            "name": "请停止无效的努力",
+            "author": "孙圈圈",
+            "publica_date": "2017-01-31",
+            "publishing_group": "团结出版社",
+            "price_n": "¥0.99",
+            "price_r": "¥38.00",
+            "price_s": "0.3折",
+            "book_img": "http://img3m8.ddimg.cn/86/14/1900716728-1_l_3.jpg"
+        },
+        {
+            "name": "好好接话",
+            "author": "山口拓朗",
+            "publica_date": "2018-10-01",
+            "publishing_group": "北京联合出版有限公司",
+            "price_n": "¥5.99",
+            "price_r": "¥35.00",
+            "price_s": "1.7折",
+            "book_img": "http://img3m9.ddimg.cn/7/12/1901094829-1_l_3.jpg"
+        },
+        {
+            "name": "读书是一辈子的事",
+            "author": "樊登",
+            "publica_date": "2018-02-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥8.25",
+            "price_r": "¥55.00",
+            "price_s": "1.5折",
+            "book_img": "http://img3m4.ddimg.cn/7/18/1900770604-1_l_2.jpg"
+        },
+        {
+            "name": "简单，是应对复杂世界的利器",
+            "author": "姬晓安",
+            "publica_date": "2019-04-01",
+            "publishing_group": "北方文艺出版社",
+            "price_n": "¥12.80",
+            "price_r": "¥16.80",
+            "price_s": "7.6折",
+            "book_img": "http://img3m1.ddimg.cn/33/17/1901128911-1_l_2.jpg"
+        },
+        {
+            "name": "自尊(原书第4版)",
+            "author": "马修·麦凯MatthewMcKay帕特里克·范宁PatrickFanning",
+            "publica_date": "",
+            "publishing_group": "机械工业出版社",
+            "price_n": "¥15.99",
+            "price_r": "¥44.85",
+            "price_s": "3.6折",
+            "book_img": "http://img3m2.ddimg.cn/87/9/1901136192-1_l_1.jpg"
+        },
+        {
+            "name": "清醒思考的策略",
+            "author": "罗尔夫·多贝里",
+            "publica_date": "",
+            "publishing_group": "中信出版集团股份有限公司",
+            "price_n": "¥17.99",
+            "price_r": "¥35.40",
+            "price_s": "5.1折",
+            "book_img": "http://img3m3.ddimg.cn/93/19/1901133723-1_l_1.jpg"
+        },
+        {
+            "name": "超效率手册：99个史上更全面的时间管理技巧",
+            "author": "斯科特·扬ScottH.Young",
+            "publica_date": "2015-11-01",
+            "publishing_group": "机械工业出版社",
+            "price_n": "¥10.99",
+            "price_r": "¥25.00",
+            "price_s": "4.4折",
+            "book_img": "http://img3m9.ddimg.cn/35/36/1900654109-1_l_5.jpg"
+        },
+        {
+            "name": "拆掉思维里的墙(百万经典版)",
+            "author": "古典",
+            "publica_date": "2016-06-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥3.99",
+            "price_r": "¥40.00",
+            "price_s": "1.0折",
+            "book_img": "http://img3m3.ddimg.cn/35/36/1900610153-1_l_2.jpg"
+        },
+        {
+            "name": "思维导图笔记整理术",
+            "author": "胡雅茹",
+            "publica_date": "2018-05-01",
+            "publishing_group": "时代华文书局",
+            "price_n": "¥8.99",
+            "price_r": "¥58.00",
+            "price_s": "1.6折",
+            "book_img": "http://img3m8.ddimg.cn/64/31/1901068948-1_l_2.jpg"
+        },
+        {
+            "name": "如何结交比你更优秀的人：把高端人脉变为优质人生资源",
+            "author": "康妮",
+            "publica_date": "2019-04-01",
+            "publishing_group": "中信出版集团股份有限公司",
+            "price_n": "¥6.99",
+            "price_r": "¥29.40",
+            "price_s": "2.4折",
+            "book_img": "http://img3m1.ddimg.cn/54/35/1901128041-1_l_2.jpg"
+        },
+        {
+            "name": "刘墉的处世情商课：给年轻人的成长指南",
+            "author": "刘墉",
+            "publica_date": "2019-01-02",
+            "publishing_group": "中国友谊出版公司",
+            "price_n": "¥15.99",
+            "price_r": "¥24.00",
+            "price_s": "6.7折",
+            "book_img": "http://img3m4.ddimg.cn/22/12/1901108704-1_l_2.jpg"
+        },
+        {
+            "name": "时间管理——如何充分利用你的24小时",
+            "author": "吉姆·兰德尔Randel舒建广",
+            "publica_date": "2012-01-01",
+            "publishing_group": "上海交通大学出版社",
+            "price_n": "¥4.95",
+            "price_r": "¥20.00",
+            "price_s": "2.5折",
+            "book_img": "http://img3m0.ddimg.cn/74/24/1900576730-1_l_2.jpg"
+        },
+        {
+            "name": "记忆魔法师：学习考试实用记忆宝典",
+            "author": "袁文魁",
+            "publica_date": "2018-06-28",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥15.99",
+            "price_r": "¥58.00",
+            "price_s": "2.8折",
+            "book_img": "http://img3m8.ddimg.cn/4/26/1901103538-1_l_1.jpg"
+        },
+        {
+            "name": "成熟",
+            "author": "陶瓷兔子",
+            "publica_date": "",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥18.00",
+            "price_r": "¥18.00",
+            "price_s": "10.0折",
+            "book_img": "http://img3m3.ddimg.cn/49/5/1901135263-1_l_1.jpg"
+        },
+        {
+            "name": "高情商，好口才畅销书合集(套装共3册)",
+            "author": "朱凌常清",
+            "publica_date": "",
+            "publishing_group": "延边大学出版社",
+            "price_n": "¥29.99",
+            "price_r": "¥29.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m4.ddimg.cn/86/29/1901113124-1_l_1.jpg"
+        },
+        {
+            "name": "决定上限的是你的情商和格局",
+            "author": "暖心Honey姐",
+            "publica_date": "2019-04-01",
+            "publishing_group": "东方出版中心",
+            "price_n": "¥15.99",
+            "price_r": "¥29.99",
+            "price_s": "5.3折",
+            "book_img": "http://img3m5.ddimg.cn/54/16/1901118735-1_l_3.jpg"
+        },
+        {
+            "name": "在亲密关系中成长：如何摆脱亲密关系中的焦虑、痛苦与不安全感",
+            "author": "卡洛琳·戴奇丽萨·罗伯邦",
+            "publica_date": "",
+            "publishing_group": "中国友谊出版公司",
+            "price_n": "¥19.99",
+            "price_r": "¥19.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m6.ddimg.cn/68/16/1901132906-1_l_1.jpg"
+        },
+        {
+            "name": "高分读书法：成绩大幅提高的秘密武器",
+            "author": "西冈一诚",
+            "publica_date": "2019-05-01",
+            "publishing_group": "人民邮电出版社",
+            "price_n": "¥22.20",
+            "price_r": "¥22.20",
+            "price_s": "10.0折",
+            "book_img": "http://img3m4.ddimg.cn/45/4/1901128824-1_l_3.jpg"
+        },
+        {
+            "name": "如何说，别人才会听；怎么听，别人才肯说(六次入围金钟奖作者重磅...",
+            "author": "王介安",
+            "publica_date": "2019-06-01",
+            "publishing_group": "中国友谊出版公司",
+            "price_n": "¥31.99",
+            "price_r": "¥31.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m3.ddimg.cn/48/5/1901128233-1_l_2.jpg"
+        },
+        {
+            "name": "天赋觉醒：创造不一样的人生",
+            "author": "江潮",
+            "publica_date": "2019-04-01",
+            "publishing_group": "江苏凤凰文艺出版社",
+            "price_n": "¥11.99",
+            "price_r": "¥11.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m7.ddimg.cn/90/31/1901116197-1_l_2.jpg"
+        },
+        {
+            "name": "1分钟沟通课【既不委屈自己，也不伤害别人的高情商沟通术】",
+            "author": "鱼住理英",
+            "publica_date": "2019-01-01",
+            "publishing_group": "东方出版中心有限公司",
+            "price_n": "¥9.99",
+            "price_r": "¥29.99",
+            "price_s": "3.3折",
+            "book_img": "http://img3m9.ddimg.cn/45/22/1901108529-1_l_2.jpg"
+        },
+        {
+            "name": "极简思维：颠覆传统思维模式的极简法则",
+            "author": "J.斯科特巴里·达文波特",
+            "publica_date": "",
+            "publishing_group": "台海出版社",
+            "price_n": "¥9.41",
+            "price_r": "¥42.00",
+            "price_s": "2.2折",
+            "book_img": "http://img3m2.ddimg.cn/23/1/1901094152-1_l_1.jpg"
+        },
+        {
+            "name": "隐性逻辑：教你快速切换思考方式",
+            "author": "卡尔·诺顿张帆",
+            "publica_date": "2017-07-01",
+            "publishing_group": "九州出版社",
+            "price_n": "¥0.99",
+            "price_r": "¥42.00",
+            "price_s": "0.2折",
+            "book_img": "http://img3m6.ddimg.cn/68/33/1900724036-1_l_4.jpg"
+        },
+        {
+            "name": "跃迁：成为高手的技术(附赠高手秘籍和时间管理秘籍)",
+            "author": "古典",
+            "publica_date": "2017-08-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥9.99",
+            "price_r": "¥49.00",
+            "price_s": "2.0折",
+            "book_img": "http://img3m2.ddimg.cn/61/1/1900701952-1_l_2.jpg"
+        },
+        {
+            "name": "秘密：十周年纪念版",
+            "author": "朗达·拜恩RhondaByrne谢明宪",
+            "publica_date": "2017-03-01",
+            "publishing_group": "湖南文艺出版社",
+            "price_n": "¥17.98",
+            "price_r": "¥40.00",
+            "price_s": "4.5折",
+            "book_img": "http://img3m3.ddimg.cn/37/27/1900698463-1_l_1.jpg"
+        },
+        {
+            "name": "六顶思考帽",
+            "author": "爱德华·德博诺",
+            "publica_date": "2014-09-26",
+            "publishing_group": "中信出版社",
+            "price_n": "¥9.99",
+            "price_r": "¥42.00",
+            "price_s": "2.4折",
+            "book_img": "http://img3m2.ddimg.cn/84/10/1900679502-1_l_1.jpg"
+        },
+        {
+            "name": "快速阅读训练法",
+            "author": "刘志华",
+            "publica_date": "2015-07-01",
+            "publishing_group": "中国纺织出版社",
+            "price_n": "¥1.99",
+            "price_r": "¥35.00",
+            "price_s": "0.6折",
+            "book_img": "http://img3m4.ddimg.cn/34/14/1900578274-1_l_2.jpg"
+        },
+        {
+            "name": "异类：不一样的成功启示录",
+            "author": "马尔科姆·格拉德威尔",
+            "publica_date": "2014-04-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥6.99",
+            "price_r": "¥36.00",
+            "price_s": "1.9折",
+            "book_img": "http://img3m7.ddimg.cn/56/31/1900510877-1_l_3.jpg"
+        },
+        {
+            "name": "精通微习惯(套装共2册)",
+            "author": "罗伯特·特威格尔斯蒂芬·盖斯",
+            "publica_date": "",
+            "publishing_group": "后浪出版公司",
+            "price_n": "¥15.99",
+            "price_r": "¥45.60",
+            "price_s": "3.5折",
+            "book_img": "http://img3m2.ddimg.cn/4/16/1901129872-1_l_1.jpg"
+        },
+        {
+            "name": "不完美，才美",
+            "author": "海蓝",
+            "publica_date": "",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥2.99",
+            "price_r": "¥11.97",
+            "price_s": "2.5折",
+            "book_img": "http://img3m2.ddimg.cn/0/23/1901129472-1_l_1.jpg"
+        },
+        {
+            "name": "高情商沟通力",
+            "author": "张超",
+            "publica_date": "2018-12-27",
+            "publishing_group": "中国友谊出版公司",
+            "price_n": "¥11.99",
+            "price_r": "¥17.12",
+            "price_s": "7.0折",
+            "book_img": "http://img3m8.ddimg.cn/55/11/1901109628-1_l_2.jpg"
+        },
+        {
+            "name": "不可错过的北大经典讲座(套装共9册)",
+            "author": "胡适章太炎梁启超朱自清",
+            "publica_date": "",
+            "publishing_group": "哈尔滨出版社;新世界出版社;山东文艺出版社;北京时代华文书局",
+            "price_n": "¥101.99",
+            "price_r": "¥337.80",
+            "price_s": "3.0折",
+            "book_img": "http://img3m4.ddimg.cn/55/5/1901093194-1_l_1.jpg"
+        },
+        {
+            "name": "如何问，别人才肯说；如何说，别人才肯听",
+            "author": "刘琳",
+            "publica_date": "2018-07-01",
+            "publishing_group": "江西人民出版社",
+            "price_n": "¥13.44",
+            "price_r": "¥42.00",
+            "price_s": "3.2折",
+            "book_img": "http://img3m9.ddimg.cn/44/6/1901074769-1_l_2.jpg"
+        },
+        {
+            "name": "决定你上限的不是能力，而是格局",
+            "author": "陶瓷兔子",
+            "publica_date": "2017-09-01",
+            "publishing_group": "北京联合出版有限公司",
+            "price_n": "¥1.99",
+            "price_r": "¥36.00",
+            "price_s": "0.6折",
+            "book_img": "http://img3m0.ddimg.cn/92/34/1900742870-1_l_2.jpg"
+        },
+        {
+            "name": "高效15法则：苹果、谷歌都在用的深度工作法",
+            "author": "凯文·克鲁斯KevinKruse",
+            "publica_date": "2017-09-01",
+            "publishing_group": "中国友谊出版公司",
+            "price_n": "¥12.39",
+            "price_r": "¥42.00",
+            "price_s": "3.0折",
+            "book_img": "http://img3m6.ddimg.cn/92/10/1900728416-1_l_2.jpg"
+        },
+        {
+            "name": "智胜未来书系：博弈智胜+口才智慧+人性密码+生存本领(套装四册)",
+            "author": "赵飞",
+            "publica_date": "2017-08-01",
+            "publishing_group": "中国言实出版社",
+            "price_n": "¥29.99",
+            "price_r": "¥29.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m0.ddimg.cn/50/35/1900707980-1_l_1.jpg"
+        },
+        {
+            "name": "逻辑说服力：如何有逻辑地说服人",
+            "author": "陈浩",
+            "publica_date": "2017-07-01",
+            "publishing_group": "中华工商联合出版社",
+            "price_n": "¥5.70",
+            "price_r": "¥38.00",
+            "price_s": "1.5折",
+            "book_img": "http://img3m8.ddimg.cn/54/2/1900700658-1_l_1.jpg"
+        },
+        {
+            "name": "曾仕强探究人际的奥秘(套装共5册)(中国式管理之父作品集)",
+            "author": "曾仕强",
+            "publica_date": "2016-03-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥29.90",
+            "price_r": "¥90.00",
+            "price_s": "3.3折",
+            "book_img": "http://img3m2.ddimg.cn/79/31/1900654252-1_l_2.jpg"
+        },
+        {
+            "name": "演讲的力量",
+            "author": "安德森",
+            "publica_date": "2016-08-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥12.99",
+            "price_r": "¥48.00",
+            "price_s": "2.7折",
+            "book_img": "http://img3m0.ddimg.cn/32/4/1900568570-1_l_4.jpg"
+        },
+        {
+            "name": "超级记忆力训练法(畅销升级版)",
+            "author": "刘志华",
+            "publica_date": "2017-09-01",
+            "publishing_group": "中国纺织出版社",
+            "price_n": "¥13.99",
+            "price_r": "¥46.00",
+            "price_s": "3.0折",
+            "book_img": "http://img3m8.ddimg.cn/85/31/1901070058-1_l_1.jpg"
+        },
+        {
+            "name": "回话的艺术",
+            "author": "李文勇",
+            "publica_date": "2016-03-01",
+            "publishing_group": "北方妇女儿童出版社",
+            "price_n": "¥1.00",
+            "price_r": "¥40.00",
+            "price_s": "0.3折",
+            "book_img": "http://img3m0.ddimg.cn/58/3/1900564240-1_l_2.jpg"
+        },
+        {
+            "name": "不生气，你就赢了",
+            "author": "华阳",
+            "publica_date": "2016-03-01",
+            "publishing_group": "台海出版社",
+            "price_n": "¥2.00",
+            "price_r": "¥33.00",
+            "price_s": "0.6折",
+            "book_img": "http://img3m7.ddimg.cn/94/23/1900563187-1_l_2.jpg"
+        },
+        {
+            "name": "深度学习：彻底解决你的知识焦虑",
+            "author": "今井睦美",
+            "publica_date": "2018-05-04",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥9.99",
+            "price_r": "¥16.80",
+            "price_s": "5.9折",
+            "book_img": "http://img3m8.ddimg.cn/63/23/1901103498-1_l_3.jpg"
+        },
+        {
+            "name": "掌控谈话",
+            "author": "克里斯·沃斯塔尔·拉兹",
+            "publica_date": "2018-09-28",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥12.99",
+            "price_r": "¥56.00",
+            "price_s": "2.3折",
+            "book_img": "http://img3m9.ddimg.cn/92/2/1901103329-1_l_1.jpg"
+        },
+        {
+            "name": "生而不凡：迈向卓越的10个颠覆性思维",
+            "author": "马来维申·拉克雅礼VishenLakhiani",
+            "publica_date": "2018-07-01",
+            "publishing_group": "机械工业出版社",
+            "price_n": "¥9.99",
+            "price_r": "¥59.00",
+            "price_s": "1.7折",
+            "book_img": "http://img3m9.ddimg.cn/80/30/1901093219-1_l_2.jpg"
+        },
+        {
+            "name": "高效时间管理：日清日课工作法图解",
+            "author": "文泉小火花",
+            "publica_date": "2018-06-01",
+            "publishing_group": "人民邮电出版社",
+            "price_n": "¥19.99",
+            "price_r": "¥49.80",
+            "price_s": "4.0折",
+            "book_img": "http://img3m9.ddimg.cn/78/22/1901084109-1_l_1.jpg"
+        },
+        {
+            "name": "为什么精英都是时间控",
+            "author": "桦泽紫苑",
+            "publica_date": "2018-03-01",
+            "publishing_group": "湖南文艺出版社",
+            "price_n": "¥17.99",
+            "price_r": "¥45.00",
+            "price_s": "4.0折",
+            "book_img": "http://img3m8.ddimg.cn/27/5/1901072178-1_l_2.jpg"
+        },
+        {
+            "name": "科学学习：斯坦福黄金学习法则",
+            "author": "丹尼尔L.施瓦茨DanielSchwartz杰西卡M.曾JessicaTsang克里斯滕P.布莱尔KristenBlair郭曼文",
+            "publica_date": "2018-05-01",
+            "publishing_group": "机械工业出版社",
+            "price_n": "¥40.00",
+            "price_r": "¥79.00",
+            "price_s": "5.1折",
+            "book_img": "http://img3m2.ddimg.cn/73/26/1901068462-1_l_2.jpg"
+        },
+        {
+            "name": "细节的力量：51件你必须知道的职场小事(还原真实职场情景，资深高...",
+            "author": "Flanagan裕美子",
+            "publica_date": "",
+            "publishing_group": "民主与建设出版社",
+            "price_n": "¥22.80",
+            "price_r": "¥22.80",
+            "price_s": "10.0折",
+            "book_img": "http://img3m4.ddimg.cn/47/30/1901135954-1_l_1.jpg"
+        },
+        {
+            "name": "焦虑急救手册(套装共5册)",
+            "author": "道格亨施弗兰齐丝卡·赛柏特克里斯多夫柯特曼哈洛辛尼斯基劳里奥康娜马克·克洛普利约翰·A.辛德勒",
+            "publica_date": "2017-02-01",
+            "publishing_group": "中国友谊出版公司 等",
+            "price_n": "¥118.00",
+            "price_r": "¥118.00",
+            "price_s": "10.0折",
+            "book_img": "http://img3m5.ddimg.cn/96/7/1901121945-1_l_2.jpg"
+        },
+        {
+            "name": "思维力：高效的系统思维",
+            "author": "王世民",
+            "publica_date": "2017-01-01",
+            "publishing_group": "电子工业出版社",
+            "price_n": "¥9.99",
+            "price_r": "¥39.00",
+            "price_s": "2.6折",
+            "book_img": "http://img3m5.ddimg.cn/42/17/1900708665-1_l_1.jpg"
+        },
+        {
+            "name": "世界顶级思维",
+            "author": "沧海满月",
+            "publica_date": "2017-02-01",
+            "publishing_group": "江西人民出版社",
+            "price_n": "¥2.99",
+            "price_r": "¥39.80",
+            "price_s": "0.8折",
+            "book_img": "http://img3m6.ddimg.cn/90/34/1900699506-1_l_1.jpg"
+        },
+        {
+            "name": "武志红经典作品合集（套装共4册）",
+            "author": "武志红",
+            "publica_date": "2014-06-01",
+            "publishing_group": "中国华侨出版社",
+            "price_n": "¥23.97",
+            "price_r": "¥49.70",
+            "price_s": "4.8折",
+            "book_img": "http://img3m6.ddimg.cn/81/19/1900650096-1_l_3.jpg"
+        },
+        {
+            "name": "简单断舍离生活：东西越少，内心越丰盛",
+            "author": "山下英子",
+            "publica_date": "2016-11-01",
+            "publishing_group": "青岛出版社",
+            "price_n": "¥14.16",
+            "price_r": "¥36.00",
+            "price_s": "3.9折",
+            "book_img": "http://img3m1.ddimg.cn/50/22/1900645511-1_l_5.jpg"
+        },
+        {
+            "name": "富人不说，却偷偷在做的47件事",
+            "author": "孟琳",
+            "publica_date": "2012-02-01",
+            "publishing_group": "新世界出版社",
+            "price_n": "¥0.99",
+            "price_r": "¥30.00",
+            "price_s": "0.3折",
+            "book_img": "http://img3m5.ddimg.cn/3/29/1900298865-1_l_1.jpg"
+        },
+        {
+            "name": "迭代：让情商和见识成为你最大的底气【知名公众号“薇安说”创始...",
+            "author": "薇安",
+            "publica_date": "2018-11-01",
+            "publishing_group": "江苏凤凰文艺出版社",
+            "price_n": "¥12.99",
+            "price_r": "¥45.00",
+            "price_s": "2.9折",
+            "book_img": "http://img3m2.ddimg.cn/23/10/1901093162-1_l_3.jpg"
+        },
+        {
+            "name": "别让穷人思维害了你(套装共6册)",
+            "author": "蔡富强钱伯鑫郎世荣",
+            "publica_date": "2018-10-01",
+            "publishing_group": "江苏人民出版社;哈尔滨出版社",
+            "price_n": "¥66.99",
+            "price_r": "¥66.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m2.ddimg.cn/75/10/1901092422-1_l_2.jpg"
+        },
+        {
+            "name": "10秒沟通",
+            "author": "荒木真理子孙律",
+            "publica_date": "2018-06-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥9.90",
+            "price_r": "¥42.00",
+            "price_s": "2.4折",
+            "book_img": "http://img3m7.ddimg.cn/85/28/1901069167-1_l_2.jpg"
+        },
+        {
+            "name": "别让情绪毁了你的努力",
+            "author": "剑圣喵大师",
+            "publica_date": "",
+            "publishing_group": "文化发展出版公司",
+            "price_n": "¥22.50",
+            "price_r": "¥22.50",
+            "price_s": "10.0折",
+            "book_img": "http://img3m5.ddimg.cn/97/9/1901136895-1_l_1.jpg"
+        },
+        {
+            "name": "生活需要仪式感",
+            "author": "李思圆",
+            "publica_date": "2017-12-01",
+            "publishing_group": "山东文艺出版社",
+            "price_n": "¥9.00",
+            "price_r": "¥36.00",
+            "price_s": "2.5折",
+            "book_img": "http://img3m9.ddimg.cn/73/29/1901076679-1_l_2.jpg"
+        },
+        {
+            "name": "口才三绝:会赞美·会幽默·会拒绝(去梯言系列)",
+            "author": "盛安之",
+            "publica_date": "2015-06-01",
+            "publishing_group": "立信会计出版社",
+            "price_n": "¥2.00",
+            "price_r": "¥36.00",
+            "price_s": "0.6折",
+            "book_img": "http://img3m4.ddimg.cn/23/32/1900608854-1_l_2.jpg"
+        },
+        {
+            "name": "内向者的竞争力",
+            "author": "谭云飞",
+            "publica_date": "",
+            "publishing_group": "江苏凤凰文艺出版社",
+            "price_n": "¥11.99",
+            "price_r": "¥11.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m4.ddimg.cn/56/4/1901132894-1_l_2.jpg"
+        },
+        {
+            "name": "为人三会:会做人会说话会办事(去梯言)",
+            "author": "端木自在",
+            "publica_date": "2014-06-01",
+            "publishing_group": "立信会计出版社",
+            "price_n": "¥1.99",
+            "price_r": "¥36.00",
+            "price_s": "0.6折",
+            "book_img": "http://img3m2.ddimg.cn/71/6/1900608902-1_l_2.jpg"
+        },
+        {
+            "name": "盲点：为什么我们易被偏见左右？",
+            "author": "约瑟夫·哈利南",
+            "publica_date": "2019-05-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥14.99",
+            "price_r": "¥35.40",
+            "price_s": "4.2折",
+            "book_img": "http://img3m8.ddimg.cn/0/21/1901128878-1_l_3.jpg"
+        },
+        {
+            "name": "别独自用餐：85%的成功来自高效的社交能力(十周年修订珍藏版)",
+            "author": "基思·法拉奇KeithFerrazzi塔尔·雷兹Tahl前十网",
+            "publica_date": "2017-06-13",
+            "publishing_group": "文汇出版社",
+            "price_n": "¥4.99",
+            "price_r": "¥49.00",
+            "price_s": "1.0折",
+            "book_img": "http://img3m9.ddimg.cn/40/4/1900709059-1_l_2.jpg"
+        },
+        {
+            "name": "与其夸夸其谈，不如静心聆听",
+            "author": "阿川佐和子",
+            "publica_date": "",
+            "publishing_group": "四川文艺出版社",
+            "price_n": "¥10.99",
+            "price_r": "¥10.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m1.ddimg.cn/58/30/1901136361-1_l_1.jpg"
+        },
+        {
+            "name": "高难度沟通(麻省理工高人气沟通课)",
+            "author": "贾森·杰伊JasonJ.Jay加布里埃尔·格兰特GabrielGrant",
+            "publica_date": "2018-01-01",
+            "publishing_group": "中国友谊出版公司",
+            "price_n": "¥8.99",
+            "price_r": "¥28.00",
+            "price_s": "3.2折",
+            "book_img": "http://img3m4.ddimg.cn/75/10/1900777404-1_l_4.jpg"
+        },
+        {
+            "name": "谁动了我的奶酪[精品]",
+            "author": "斯宾塞·约翰逊",
+            "publica_date": "2010-05-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥2.90",
+            "price_r": "¥22.00",
+            "price_s": "1.3折",
+            "book_img": "http://img3m5.ddimg.cn/32/28/1900352255-1_l_3.jpg"
+        },
+        {
+            "name": "麦肯锡精英高效阅读法",
+            "author": "赤羽雄二",
+            "publica_date": "",
+            "publishing_group": "民主与建设出版社",
+            "price_n": "¥15.98",
+            "price_r": "¥21.60",
+            "price_s": "7.4折",
+            "book_img": "http://img3m2.ddimg.cn/77/25/1901129252-1_l_1.jpg"
+        },
+        {
+            "name": "狼道全集",
+            "author": "猎夫",
+            "publica_date": "2005-10-01",
+            "publishing_group": "中国言实出版社",
+            "price_n": "¥8.45",
+            "price_r": "¥12.68",
+            "price_s": "6.7折",
+            "book_img": "http://img3m5.ddimg.cn/18/20/1900368675-1_l_3.jpg"
+        },
+        {
+            "name": "掌控：开启不疲惫、不焦虑的人生",
+            "author": "张展晖",
+            "publica_date": "",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥11.99",
+            "price_r": "¥58.00",
+            "price_s": "2.1折",
+            "book_img": "http://img3m8.ddimg.cn/73/33/1901103508-1_l_1.jpg"
+        },
+        {
+            "name": "视觉笔记术(作者价值6800元的课程重点都包含在本书中，只要按书中...",
+            "author": "卢慈伟",
+            "publica_date": "2018-08-01",
+            "publishing_group": "时代华文书局",
+            "price_n": "¥24.00",
+            "price_r": "¥48.00",
+            "price_s": "5.0折",
+            "book_img": "http://img3m7.ddimg.cn/7/30/1901078197-1_l_1.jpg"
+        },
+        {
+            "name": "爆款文案(前奥美金牌广告人力作)",
+            "author": "关健明",
+            "publica_date": "2017-11-01",
+            "publishing_group": "北京联合出版有限公司",
+            "price_n": "¥8.99",
+            "price_r": "¥42.00",
+            "price_s": "2.1折",
+            "book_img": "http://img3m0.ddimg.cn/52/30/1900738870-1_l_2.jpg"
+        },
+        {
+            "name": "快速阅读术",
+            "author": "印南敦史",
+            "publica_date": "2017-04-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥5.99",
+            "price_r": "¥39.00",
+            "price_s": "1.5折",
+            "book_img": "http://img3m4.ddimg.cn/24/35/1900701024-1_l_1.jpg"
+        },
+        {
+            "name": "微精通：轻松到不可能放弃的技能学习手册",
+            "author": "罗伯特·特威格尔",
+            "publica_date": "2019-01-01",
+            "publishing_group": "江西人民出版社",
+            "price_n": "¥9.99",
+            "price_r": "¥22.80",
+            "price_s": "4.4折",
+            "book_img": "http://img3m5.ddimg.cn/38/26/1901119115-1_l_3.jpg"
+        },
+        {
+            "name": "学会学习：从认知自我到高效学习",
+            "author": "斋藤孝",
+            "publica_date": "2016-03-01",
+            "publishing_group": "江西人民出版社",
+            "price_n": "¥1.00",
+            "price_r": "¥32.00",
+            "price_s": "0.3折",
+            "book_img": "http://img3m4.ddimg.cn/62/15/1900742444-1_l_2.jpg"
+        },
+        {
+            "name": "别输在不会表达上",
+            "author": "李劲",
+            "publica_date": "2016-08-01",
+            "publishing_group": "古吴轩出版社",
+            "price_n": "¥4.99",
+            "price_r": "¥35.00",
+            "price_s": "1.4折",
+            "book_img": "http://img3m7.ddimg.cn/30/34/1900596387-1_l_4.jpg"
+        },
+        {
+            "name": "精进：如何成为一个很厉害的人",
+            "author": "采铜",
+            "publica_date": "2016-04-01",
+            "publishing_group": "江苏凤凰文艺出版社",
+            "price_n": "¥2.99",
+            "price_r": "¥38.00",
+            "price_s": "0.8折",
+            "book_img": "http://img3m1.ddimg.cn/39/29/1900559271-1_l_9.jpg"
+        },
+        {
+            "name": "你的善良必须有点锋芒2(慕颜歌全新力作：善良很贵，我劝你善良，...",
+            "author": "慕颜歌",
+            "publica_date": "",
+            "publishing_group": "中国友谊出版公司",
+            "price_n": "¥15.99",
+            "price_r": "¥27.99",
+            "price_s": "5.7折",
+            "book_img": "http://img3m1.ddimg.cn/42/2/1901132781-1_l_1.jpg"
+        },
+        {
+            "name": "情绪的奥秘：曾仕强告诉你不生气的活法",
+            "author": "曾仕强",
+            "publica_date": "2014-10-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥0.99",
+            "price_r": "¥39.00",
+            "price_s": "0.3折",
+            "book_img": "http://img3m2.ddimg.cn/0/16/1900369152-1_l_1.jpg"
+        },
+        {
+            "name": "人人都能做到的便签整理术",
+            "author": "须藤由美",
+            "publica_date": "2019-03-26",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥18.00",
+            "price_r": "¥18.00",
+            "price_s": "10.0折",
+            "book_img": "http://img3m2.ddimg.cn/49/7/1901117542-1_l_2.jpg"
+        },
+        {
+            "name": "海蓝博士的情绪梳理必修课：不完美，才美3 做自己情绪的主人",
+            "author": "海蓝",
+            "publica_date": "2019-02-01",
+            "publishing_group": "北京联合出版有限公司",
+            "price_n": "¥5.99",
+            "price_r": "¥29.99",
+            "price_s": "2.0折",
+            "book_img": "http://img3m1.ddimg.cn/44/22/1901116151-1_l_3.jpg"
+        },
+        {
+            "name": "断舍离（心灵篇）",
+            "author": "山下英子",
+            "publica_date": "2014-01-01",
+            "publishing_group": "广西科学技术出版社",
+            "price_n": "¥12.40",
+            "price_r": "¥32.00",
+            "price_s": "3.9折",
+            "book_img": "http://img3m6.ddimg.cn/48/5/1900765596-1_l_1.jpg"
+        },
+        {
+            "name": "人生没什么不可放下：弘一法师的人生智慧",
+            "author": "宋默",
+            "publica_date": "2014-01-01",
+            "publishing_group": "团结出版社",
+            "price_n": "¥8.20",
+            "price_r": "¥32.80",
+            "price_s": "2.5折",
+            "book_img": "http://img3m8.ddimg.cn/19/12/1900713988-1_l_1.jpg"
+        },
+        {
+            "name": "吃掉那只青蛙：博恩·崔西的高效时间管理法则(原书第3版)",
+            "author": "博恩·崔西BrianTracy",
+            "publica_date": "2017-07-01",
+            "publishing_group": "机械工业出版社",
+            "price_n": "¥15.99",
+            "price_r": "¥35.00",
+            "price_s": "4.6折",
+            "book_img": "http://img3m8.ddimg.cn/52/8/1900710358-1_l_1.jpg"
+        },
+        {
+            "name": "阿德勒100句人生革命",
+            "author": "阿德勒原",
+            "publica_date": "2015-09-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥0.10",
+            "price_r": "¥48.00",
+            "price_s": "0.0折",
+            "book_img": "http://img3m2.ddimg.cn/67/21/1900493662-1_l_1.jpg"
+        },
+        {
+            "name": "活力：稻盛和夫的人生经营法",
+            "author": "稻盛和夫徐萌",
+            "publica_date": "2018-09-01",
+            "publishing_group": "现代出版社",
+            "price_n": "¥15.99",
+            "price_r": "¥15.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m5.ddimg.cn/4/21/1901116705-1_l_2.jpg"
+        },
+        {
+            "name": "精准表达：让你的方案在最短的时间内打动人心",
+            "author": "高田贵久",
+            "publica_date": "2018-07-31",
+            "publishing_group": "江西人民出版社",
+            "price_n": "¥3.99",
+            "price_r": "¥38.00",
+            "price_s": "1.1折",
+            "book_img": "http://img3m5.ddimg.cn/50/16/1901090615-1_l_2.jpg"
+        },
+        {
+            "name": "精力管理手册",
+            "author": "张萌",
+            "publica_date": "",
+            "publishing_group": "中信出版集团股份有限公司",
+            "price_n": "¥35.40",
+            "price_r": "¥35.40",
+            "price_s": "10.0折",
+            "book_img": "http://img3m3.ddimg.cn/86/30/1901128073-1_l_1.jpg"
+        },
+        {
+            "name": "断舍离",
+            "author": "山下英子",
+            "publica_date": "2013-06-01",
+            "publishing_group": "广西科学技术出版社",
+            "price_n": "¥6.99",
+            "price_r": "¥32.00",
+            "price_s": "2.2折",
+            "book_img": "http://img3m1.ddimg.cn/5/35/1901076611-1_l_1.jpg"
+        },
+        {
+            "name": "曾国藩智慧经典合集(曾国藩家书+挺经+冰鉴)套装共三册",
+            "author": "曾国藩",
+            "publica_date": "2016-05-01",
+            "publishing_group": "哈尔滨出版社",
+            "price_n": "¥30.99",
+            "price_r": "¥15.99",
+            "price_s": "19.4折",
+            "book_img": "http://img3m5.ddimg.cn/2/35/1900755155-1_l_1.jpg"
+        },
+        {
+            "name": "演讲与口才22堂自我训练课",
+            "author": "臧宝飞",
+            "publica_date": "2018-01-01",
+            "publishing_group": "中国国际广播出版社",
+            "price_n": "¥8.71",
+            "price_r": "¥39.80",
+            "price_s": "2.2折",
+            "book_img": "http://img3m6.ddimg.cn/93/31/1901075016-1_l_1.jpg"
+        },
+        {
+            "name": "提升人生软实力(套装共九册)",
+            "author": "卡尔·纽波特卡罗尔·德韦克高田贵久古川武士野口真人有川真由美大石哲之斋藤孝",
+            "publica_date": "",
+            "publishing_group": "后浪出版公司",
+            "price_n": "¥39.99",
+            "price_r": "¥276.00",
+            "price_s": "1.4折",
+            "book_img": "http://img3m1.ddimg.cn/86/16/1901094611-1_l_1.jpg"
+        },
+        {
+            "name": "羊皮卷",
+            "author": "戴尔·卡耐基",
+            "publica_date": "2017-07-01",
+            "publishing_group": "江西人民出版社",
+            "price_n": "¥5.99",
+            "price_r": "¥39.80",
+            "price_s": "1.5折",
+            "book_img": "http://img3m5.ddimg.cn/52/33/1900695805-1_l_1.jpg"
+        },
+        {
+            "name": "极简生活：简而美地活",
+            "author": "有川真由美",
+            "publica_date": "2016-06-01",
+            "publishing_group": "江苏凤凰文艺出版社",
+            "price_n": "¥3.99",
+            "price_r": "¥40.00",
+            "price_s": "1.0折",
+            "book_img": "http://img3m4.ddimg.cn/20/27/1900567964-1_l_5.jpg"
+        },
+        {
+            "name": "超级大脑的七个习惯：激发大脑潜能，激活高效人生",
+            "author": "菅原道仁",
+            "publica_date": "",
+            "publishing_group": "中国友谊出版公司",
+            "price_n": "¥19.99",
+            "price_r": "¥19.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m6.ddimg.cn/59/24/1901137946-1_l_1.jpg"
+        },
+        {
+            "name": "阅读整理学",
+            "author": "外山滋比古",
+            "publica_date": "2014-09-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥15.00",
+            "price_r": "¥25.00",
+            "price_s": "6.0折",
+            "book_img": "http://img3m4.ddimg.cn/93/17/1901078184-1_l_1.jpg"
+        },
+        {
+            "name": "一本小小的蓝色逻辑书(哈佛大学毕业生写的逻辑入门书)",
+            "author": "布兰登罗伊尔冯亚彬刘祥亚",
+            "publica_date": "2016-08-01",
+            "publishing_group": "九州出版社",
+            "price_n": "¥0.99",
+            "price_r": "¥40.00",
+            "price_s": "0.2折",
+            "book_img": "http://img3m7.ddimg.cn/57/16/1900568397-1_l_4.jpg"
+        },
+        {
+            "name": "高效工作术",
+            "author": "",
+            "publica_date": "",
+            "publishing_group": "江苏凤凰文艺出版社",
+            "price_n": "¥12.99",
+            "price_r": "¥12.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m7.ddimg.cn/13/14/1901130277-1_l_1.jpg"
+        },
+        {
+            "name": "自我关怀的力量",
+            "author": "克里斯廷·内夫",
+            "publica_date": "2017-07-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥12.99",
+            "price_r": "¥42.00",
+            "price_s": "3.1折",
+            "book_img": "http://img3m5.ddimg.cn/93/9/1900705845-1_l_1.jpg"
+        },
+        {
+            "name": "办公室老江湖的职场心法",
+            "author": "像玉的石头刘洋",
+            "publica_date": "2017-04-01",
+            "publishing_group": "清华大学出版社",
+            "price_n": "¥8.99",
+            "price_r": "¥59.00",
+            "price_s": "1.5折",
+            "book_img": "http://img3m4.ddimg.cn/87/6/1900699404-1_l_1.jpg"
+        },
+        {
+            "name": "以幽默的方式过一生",
+            "author": "琢磨先生",
+            "publica_date": "2017-06-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥15.99",
+            "price_r": "¥46.00",
+            "price_s": "3.5折",
+            "book_img": "http://img3m8.ddimg.cn/21/30/1900689438-1_l_1.jpg"
+        },
+        {
+            "name": "坚毅",
+            "author": "安杰拉·达克沃思",
+            "publica_date": "2017-06-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥9.99",
+            "price_r": "¥69.00",
+            "price_s": "1.4折",
+            "book_img": "http://img3m6.ddimg.cn/19/28/1900689436-1_l_1.jpg"
+        },
+        {
+            "name": "一本小小的紫色概率书(附赠全本英文版)",
+            "author": "布兰登·罗伊尔周丽萍",
+            "publica_date": "2017-05-01",
+            "publishing_group": "九州出版社",
+            "price_n": "¥7.99",
+            "price_r": "¥38.00",
+            "price_s": "2.1折",
+            "book_img": "http://img3m2.ddimg.cn/86/17/1900684652-1_l_1.jpg"
+        },
+        {
+            "name": "高效人士用超级笔记术",
+            "author": "小西利行易哲",
+            "publica_date": "2016-07-01",
+            "publishing_group": "湖南文艺出版社",
+            "price_n": "¥8.99",
+            "price_r": "¥40.00",
+            "price_s": "2.2折",
+            "book_img": "http://img3m1.ddimg.cn/41/29/1900683221-1_l_1.jpg"
+        },
+        {
+            "name": "制怒：如何掌控自己和他人的情绪",
+            "author": "琳达·科汗",
+            "publica_date": "2017-04-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥5.99",
+            "price_r": "¥39.00",
+            "price_s": "1.5折",
+            "book_img": "http://img3m7.ddimg.cn/9/8/1900675467-1_l_3.jpg"
+        },
+        {
+            "name": "当下的力量（白金版）",
+            "author": "埃克哈特·托利",
+            "publica_date": "2013-05-21",
+            "publishing_group": "中信出版社",
+            "price_n": "¥14.99",
+            "price_r": "¥35.00",
+            "price_s": "4.3折",
+            "book_img": "http://img3m3.ddimg.cn/36/22/1900671633-1_l_1.jpg"
+        },
+        {
+            "name": "如何成为高质量的学习者(套装共2册)",
+            "author": "肯尼思·希格比KennethL.Higbee",
+            "publica_date": "2017-03-01",
+            "publishing_group": "机械工业出版社",
+            "price_n": "¥33.90",
+            "price_r": "¥50.85",
+            "price_s": "6.7折",
+            "book_img": "http://img3m5.ddimg.cn/13/0/1900657255-1_l_1.jpg"
+        },
+        {
+            "name": "你的坚持，终将美好",
+            "author": "人民日报社新媒体中心",
+            "publica_date": "2016-06-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥1.99",
+            "price_r": "¥42.00",
+            "price_s": "0.5折",
+            "book_img": "http://img3m6.ddimg.cn/40/28/1900653916-1_l_2.jpg"
+        },
+        {
+            "name": "如何进行视觉思考",
+            "author": "查尔斯菲利普斯",
+            "publica_date": "2016-11-01",
+            "publishing_group": "时代华文书局",
+            "price_n": "¥5.99",
+            "price_r": "¥35.00",
+            "price_s": "1.7折",
+            "book_img": "http://img3m7.ddimg.cn/53/16/1900650167-1_l_1.jpg"
+        },
+        {
+            "name": "不完美，才美2：情绪决定命运",
+            "author": "海蓝",
+            "publica_date": "2016-10-01",
+            "publishing_group": "广东人民出版社",
+            "price_n": "¥10.00",
+            "price_r": "¥40.00",
+            "price_s": "2.5折",
+            "book_img": "http://img3m6.ddimg.cn/16/8/1900625776-1_l_7.jpg"
+        },
+        {
+            "name": "好好说话",
+            "author": "学诚法师",
+            "publica_date": "2016-09-01",
+            "publishing_group": "广东人民出版社",
+            "price_n": "¥3.99",
+            "price_r": "¥40.00",
+            "price_s": "1.0折",
+            "book_img": "http://img3m1.ddimg.cn/43/32/1900599271-1_l_6.jpg"
+        },
+        {
+            "name": "亲密关系",
+            "author": "克里斯多福·孟",
+            "publica_date": "2015-04-01",
+            "publishing_group": "湖南文艺出版社",
+            "price_n": "¥17.98",
+            "price_r": "¥35.00",
+            "price_s": "5.1折",
+            "book_img": "http://img3m9.ddimg.cn/19/31/1900485199-1_l_7.jpg"
+        },
+        {
+            "name": "超级自控力：管好自己就成功",
+            "author": "弓健",
+            "publica_date": "2015-01-01",
+            "publishing_group": "北方妇女儿童出版社",
+            "price_n": "¥1.99",
+            "price_r": "¥18.00",
+            "price_s": "1.1折",
+            "book_img": "http://img3m8.ddimg.cn/81/0/1900406358-1_l_2.jpg"
+        },
+        {
+            "name": "洗脑术2(实践篇)：怎样有逻辑地说服他人",
+            "author": "高德",
+            "publica_date": "2014-12-01",
+            "publishing_group": "北京时代华文书局",
+            "price_n": "¥1.00",
+            "price_r": "¥35.00",
+            "price_s": "0.3折",
+            "book_img": "http://img3m8.ddimg.cn/24/19/1900373928-1_l_1.jpg"
+        },
+        {
+            "name": "幽默沟通学：零距离制胜的口才秘籍",
+            "author": "陈浩",
+            "publica_date": "2013-01-01",
+            "publishing_group": "中国华侨出版社",
+            "price_n": "¥4.80",
+            "price_r": "¥32.00",
+            "price_s": "1.5折",
+            "book_img": "http://img3m6.ddimg.cn/87/12/1900334886-1_l_3.jpg"
+        },
+        {
+            "name": "每天读点幸福禅",
+            "author": "杨承清",
+            "publica_date": "2013-06-01",
+            "publishing_group": "重庆出版社",
+            "price_n": "¥0.71",
+            "price_r": "¥3.99",
+            "price_s": "1.8折",
+            "book_img": "http://img3m4.ddimg.cn/11/27/1900321544-1_l_2.jpg"
+        },
+        {
+            "name": "趋势的力量：个人职业发展战略决策必修课",
+            "author": "赵正宝",
+            "publica_date": "2012-11-01",
+            "publishing_group": "中国广播电视出版社",
+            "price_n": "¥1.98",
+            "price_r": "¥32.00",
+            "price_s": "0.6折",
+            "book_img": "http://img3m9.ddimg.cn/65/8/1900131419-1_l_1.jpg"
+        },
+        {
+            "name": "中国人你为什么爱生气：管理情绪，改变命运",
+            "author": "曾仕强",
+            "publica_date": "2010-11-01",
+            "publishing_group": "广东经济出版社",
+            "price_n": "¥1.00",
+            "price_r": "¥32.00",
+            "price_s": "0.3折",
+            "book_img": "http://img3m1.ddimg.cn/53/12/1900077551-1_l_1.jpg"
+        },
+        {
+            "name": "饭局攻心术",
+            "author": "陆洲",
+            "publica_date": "2012-11-01",
+            "publishing_group": "印刷工业出版社",
+            "price_n": "¥0.99",
+            "price_r": "¥29.80",
+            "price_s": "0.3折",
+            "book_img": "http://img3m2.ddimg.cn/69/24/1900299822-1_l_2.jpg"
+        },
+        {
+            "name": "精英都是细节控：掌控人生的72个细节思维",
+            "author": "艾里",
+            "publica_date": "2019-05-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥18.99",
+            "price_r": "¥18.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m7.ddimg.cn/3/2/1901122347-1_l_3.jpg"
+        },
+        {
+            "name": "沟通力：成为更棒的自己",
+            "author": "J.罗伯特·帕金森",
+            "publica_date": "2018-05-01",
+            "publishing_group": "文化发展出版社",
+            "price_n": "¥11.99",
+            "price_r": "¥11.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m8.ddimg.cn/13/16/1901127208-1_l_2.jpg"
+        },
+        {
+            "name": "改变提问，改变人生：12个改善生活与工作的有力工具(原书第3版)",
+            "author": "梅若李·亚当斯MarileeAdams",
+            "publica_date": "2018-06-01",
+            "publishing_group": "机械工业出版社",
+            "price_n": "¥25.00",
+            "price_r": "¥29.25",
+            "price_s": "8.5折",
+            "book_img": "http://img3m3.ddimg.cn/5/13/1901114033-1_l_3.jpg"
+        },
+        {
+            "name": "你的努力，要配得上你的野心",
+            "author": "李尚龙",
+            "publica_date": "2018-09-12",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥17.44",
+            "price_r": "¥45.00",
+            "price_s": "3.9折",
+            "book_img": "http://img3m8.ddimg.cn/83/6/1901103518-1_l_1.jpg"
+        },
+        {
+            "name": "不执着，叫看破  不完美，是生活",
+            "author": "莫妮卡·拉米雷斯·巴斯科MonicaRamirezBasco",
+            "publica_date": "2018-12-01",
+            "publishing_group": "江苏凤凰文艺出版社",
+            "price_n": "¥12.99",
+            "price_r": "¥29.99",
+            "price_s": "4.3折",
+            "book_img": "http://img3m5.ddimg.cn/88/25/1901100355-1_l_6.jpg"
+        },
+        {
+            "name": "高效工作记忆法",
+            "author": "宇都出雅巳",
+            "publica_date": "2018-09-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥25.00",
+            "price_r": "¥42.00",
+            "price_s": "6.0折",
+            "book_img": "http://img3m3.ddimg.cn/4/28/1901093143-1_l_3.jpg"
+        },
+        {
+            "name": "每一天梦想练习",
+            "author": "另维",
+            "publica_date": "2018-05-01",
+            "publishing_group": "湖南文艺出版社",
+            "price_n": "¥17.99",
+            "price_r": "¥42.80",
+            "price_s": "4.2折",
+            "book_img": "http://img3m3.ddimg.cn/77/14/1901074703-1_l_1.jpg"
+        },
+        {
+            "name": "逆袭",
+            "author": "李源",
+            "publica_date": "",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥36.00",
+            "price_r": "¥36.00",
+            "price_s": "10.0折",
+            "book_img": "http://img3m1.ddimg.cn/35/24/1901134061-1_l_1.jpg"
+        },
+        {
+            "name": "意志力是训练出来的：全新增订版",
+            "author": "菲尔图",
+            "publica_date": "",
+            "publishing_group": "湖南文艺出版社",
+            "price_n": "¥17.99",
+            "price_r": "¥17.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m3.ddimg.cn/96/28/1901117193-1_l_1.jpg"
+        },
+        {
+            "name": "如何成为一个很厉害的人(精进人生书系)(套装三册)",
+            "author": "韩紫冯晓霞董小楠",
+            "publica_date": "",
+            "publishing_group": "中国言实出版社",
+            "price_n": "¥20.99",
+            "price_r": "¥20.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m2.ddimg.cn/97/23/1901115412-1_l_1.jpg"
+        },
+        {
+            "name": "世界各国留学2018政策盘点&2019趋势预测",
+            "author": "新东方前途出国",
+            "publica_date": "",
+            "publishing_group": "",
+            "price_n": "¥0.10",
+            "price_r": "¥0.10",
+            "price_s": "10.0折",
+            "book_img": "http://img3m9.ddimg.cn/0/20/1901113929-1_l_1.jpg"
+        },
+        {
+            "name": "快速阅读：如何训练大脑百倍速读书",
+            "author": "黄伟",
+            "publica_date": "",
+            "publishing_group": "中国纺织出版社",
+            "price_n": "¥15.99",
+            "price_r": "¥39.80",
+            "price_s": "4.0折",
+            "book_img": "http://img3m7.ddimg.cn/67/20/1901094097-1_l_1.jpg"
+        },
+        {
+            "name": "超级聊天术：实战篇",
+            "author": "斋藤孝",
+            "publica_date": "",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥15.75",
+            "price_r": "¥45.00",
+            "price_s": "3.5折",
+            "book_img": "http://img3m8.ddimg.cn/23/17/1901091578-1_l_1.jpg"
+        },
+        {
+            "name": "自在力",
+            "author": "山下英子",
+            "publica_date": "2015-04-01",
+            "publishing_group": "广西科学技术出版社",
+            "price_n": "¥12.80",
+            "price_r": "¥32.00",
+            "price_s": "4.0折",
+            "book_img": "http://img3m4.ddimg.cn/8/1/1901076614-1_l_1.jpg"
+        },
+        {
+            "name": "女人明白要趁早之活到淋漓",
+            "author": "王潇",
+            "publica_date": "2017-06-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥4.50",
+            "price_r": "¥45.00",
+            "price_s": "1.0折",
+            "book_img": "http://img3m1.ddimg.cn/49/12/1901075071-1_l_1.jpg"
+        },
+        {
+            "name": "做事的常识：事情一来，马上就知道怎么做",
+            "author": "小仓广",
+            "publica_date": "2015-08-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥6.99",
+            "price_r": "¥19.20",
+            "price_s": "3.6折",
+            "book_img": "http://img3m2.ddimg.cn/12/8/1900751502-1_l_2.jpg"
+        },
+        {
+            "name": "枫情无限——探寻加拿大名校之旅",
+            "author": "新东方前途出国图书策划委员会",
+            "publica_date": "2017-10-17",
+            "publishing_group": "",
+            "price_n": "¥0.10",
+            "price_r": "¥0.10",
+            "price_s": "10.0折",
+            "book_img": "http://img3m8.ddimg.cn/30/8/1900738848-1_l_1.jpg"
+        },
+        {
+            "name": "12个工作的基本",
+            "author": "大久保幸夫",
+            "publica_date": "2016-09-01",
+            "publishing_group": "江西人民出版社",
+            "price_n": "¥9.99",
+            "price_r": "¥36.00",
+            "price_s": "2.8折",
+            "book_img": "http://img3m7.ddimg.cn/44/8/1900738367-1_l_1.jpg"
+        },
+        {
+            "name": "精致",
+            "author": "加藤惠美子",
+            "publica_date": "2017-09-01",
+            "publishing_group": "北京联合出版有限公司",
+            "price_n": "¥4.99",
+            "price_r": "¥49.90",
+            "price_s": "1.0折",
+            "book_img": "http://img3m6.ddimg.cn/51/2/1900738176-1_l_1.jpg"
+        },
+        {
+            "name": "行动变现：如何让我们的拼搏更有价值",
+            "author": "杨小米",
+            "publica_date": "2018-07-01",
+            "publishing_group": "江苏凤凰文艺出版社",
+            "price_n": "¥14.99",
+            "price_r": "¥39.80",
+            "price_s": "3.8折",
+            "book_img": "http://img3m2.ddimg.cn/27/7/1901072772-1_l_2.jpg"
+        },
+        {
+            "name": "最好的投资是投资自己",
+            "author": "凯蒂·北村叶琳",
+            "publica_date": "2018-06-01",
+            "publishing_group": "江苏凤凰文艺出版社",
+            "price_n": "¥12.38",
+            "price_r": "¥42.00",
+            "price_s": "2.9折",
+            "book_img": "http://img3m9.ddimg.cn/87/30/1901069169-1_l_2.jpg"
+        },
+        {
+            "name": "赢在下班后：知名咨询专家倾力打造34种高效思维模式",
+            "author": "池本克之赵净净",
+            "publica_date": "2018-06-01",
+            "publishing_group": "中国友谊出版公司",
+            "price_n": "¥5.99",
+            "price_r": "¥39.80",
+            "price_s": "1.5折",
+            "book_img": "http://img3m8.ddimg.cn/75/30/1901069058-1_l_2.jpg"
+        },
+        {
+            "name": "做事的逻辑：如何持续做正确的事",
+            "author": "傅君琳",
+            "publica_date": "2019-03-01",
+            "publishing_group": "四川人民出版社",
+            "price_n": "¥12.90",
+            "price_r": "¥12.90",
+            "price_s": "10.0折",
+            "book_img": "http://img3m5.ddimg.cn/56/24/1901127845-1_l_2.jpg"
+        },
+        {
+            "name": "舍得对自己下狠手，生活才会对你温柔",
+            "author": "Kris在路上",
+            "publica_date": "2019-03-01",
+            "publishing_group": "古吴轩出版社",
+            "price_n": "¥12.90",
+            "price_r": "¥12.90",
+            "price_s": "10.0折",
+            "book_img": "http://img3m0.ddimg.cn/37/16/1901127430-1_l_2.jpg"
+        },
+        {
+            "name": "聪明人的开会技巧",
+            "author": "萨拉·库珀",
+            "publica_date": "2019-03-01",
+            "publishing_group": "湖南文艺出版社",
+            "price_n": "¥17.99",
+            "price_r": "¥17.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m6.ddimg.cn/10/23/1901119186-1_l_2.jpg"
+        },
+        {
+            "name": "这样表达更高效：定目标，搭结构，讲故事",
+            "author": "周言",
+            "publica_date": "2019-04-01",
+            "publishing_group": "机械工业出版社",
+            "price_n": "¥12.99",
+            "price_r": "¥31.85",
+            "price_s": "4.1折",
+            "book_img": "http://img3m7.ddimg.cn/23/21/1901118407-1_l_3.jpg"
+        },
+        {
+            "name": "坚毅：培养热情、毅力和设立目标的实用方法",
+            "author": "卡洛琳·亚当斯·米勒",
+            "publica_date": "2019-01-01",
+            "publishing_group": "机械工业出版社",
+            "price_n": "¥25.00",
+            "price_r": "¥31.85",
+            "price_s": "7.8折",
+            "book_img": "http://img3m4.ddimg.cn/15/33/1901106024-1_l_3.jpg"
+        },
+        {
+            "name": "大潜能",
+            "author": "肖恩·埃科尔",
+            "publica_date": "",
+            "publishing_group": "中信出版集团股份有限公司",
+            "price_n": "¥19.99",
+            "price_r": "¥29.40",
+            "price_s": "6.8折",
+            "book_img": "http://img3m3.ddimg.cn/34/22/1901133763-1_l_1.jpg"
+        },
+        {
+            "name": "决定上限的，是你处理情绪的能力：开启正能量的七堂情绪管理课！",
+            "author": "斯蒂芬·克利福德",
+            "publica_date": "",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥15.99",
+            "price_r": "¥19.99",
+            "price_s": "8.0折",
+            "book_img": "http://img3m7.ddimg.cn/34/33/1901133367-1_l_1.jpg"
+        },
+        {
+            "name": "你的格局有多大，你的世界就有多大",
+            "author": "林熙泽",
+            "publica_date": "",
+            "publishing_group": "武汉大学出版社",
+            "price_n": "¥14.99",
+            "price_r": "¥14.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m3.ddimg.cn/55/16/1901111113-1_l_1.jpg"
+        },
+        {
+            "name": "会说话才是真的情商高(套装共9册)",
+            "author": "李林坪高德张方金金鸿儒公孙策蔡富强郎世荣王彦",
+            "publica_date": "",
+            "publishing_group": "文化发展出版社;花山文艺出版社;江苏人民出版社 等",
+            "price_n": "¥106.99",
+            "price_r": "¥354.00",
+            "price_s": "3.0折",
+            "book_img": "http://img3m3.ddimg.cn/76/11/1901092423-1_l_1.jpg"
+        },
+        {
+            "name": "高效能时间管理术[第四版]",
+            "author": "帕特里克·福赛思",
+            "publica_date": "2017-10-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥20.99",
+            "price_r": "¥42.00",
+            "price_s": "5.0折",
+            "book_img": "http://img3m1.ddimg.cn/78/20/1900761171-1_l_1.jpg"
+        },
+        {
+            "name": "超级阅读术",
+            "author": "齐藤孝",
+            "publica_date": "2014-11-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥12.00",
+            "price_r": "¥38.00",
+            "price_s": "3.2折",
+            "book_img": "http://img3m1.ddimg.cn/39/4/1900753311-1_l_1.jpg"
+        },
+        {
+            "name": "靠谱：顶尖咨询师教你的工作基本功",
+            "author": "大石哲之",
+            "publica_date": "2017-06-01",
+            "publishing_group": "江西人民出版社",
+            "price_n": "¥4.32",
+            "price_r": "¥36.00",
+            "price_s": "1.2折",
+            "book_img": "http://img3m1.ddimg.cn/59/12/1900742441-1_l_2.jpg"
+        },
+        {
+            "name": "为什么精英都是Excel控",
+            "author": "熊野整刘格安",
+            "publica_date": "2017-05-01",
+            "publishing_group": "湖南文艺出版社",
+            "price_n": "¥8.99",
+            "price_r": "¥38.00",
+            "price_s": "2.4折",
+            "book_img": "http://img3m9.ddimg.cn/14/16/1900720319-1_l_2.jpg"
+        },
+        {
+            "name": "最强大脑之忆菲冲天：记忆让一切更有价值",
+            "author": "卢菲菲",
+            "publica_date": "2016-08-01",
+            "publishing_group": "电子工业出版社",
+            "price_n": "¥11.99",
+            "price_r": "¥49.00",
+            "price_s": "2.4折",
+            "book_img": "http://img3m3.ddimg.cn/6/22/1900717143-1_l_1.jpg"
+        },
+        {
+            "name": "时间管理手账",
+            "author": "劳拉·范德卡姆",
+            "publica_date": "2015-11-03",
+            "publishing_group": "中信出版社",
+            "price_n": "¥26.99",
+            "price_r": "¥45.00",
+            "price_s": "6.0折",
+            "book_img": "http://img3m4.ddimg.cn/26/24/1900671524-1_l_1.jpg"
+        },
+        {
+            "name": "语言的魔力：用语言转变信念的神奇旅程",
+            "author": "罗伯特·迪尔茨",
+            "publica_date": "2016-07-01",
+            "publishing_group": "北方妇女儿童出版社",
+            "price_n": "¥16.35",
+            "price_r": "¥58.00",
+            "price_s": "2.8折",
+            "book_img": "http://img3m7.ddimg.cn/79/32/1900639897-1_l_2.jpg"
+        },
+        {
+            "name": "搞定Ⅰ：无压工作的艺术",
+            "author": "戴维·艾伦",
+            "publica_date": "2016-05-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥9.99",
+            "price_r": "¥42.00",
+            "price_s": "2.4折",
+            "book_img": "http://img3m2.ddimg.cn/76/20/1900626232-1_l_2.jpg"
+        },
+        {
+            "name": "深度思考",
+            "author": "川上浩司",
+            "publica_date": "2018-12-29",
+            "publishing_group": "中国友谊出版公司",
+            "price_n": "¥13.99",
+            "price_r": "¥18.00",
+            "price_s": "7.8折",
+            "book_img": "http://img3m9.ddimg.cn/84/36/1901108469-1_l_2.jpg"
+        },
+        {
+            "name": "猜测和偏见：何帆阅读笔记",
+            "author": "何帆",
+            "publica_date": "2018-08-01",
+            "publishing_group": "中信出版集团股份有限公司",
+            "price_n": "¥25.00",
+            "price_r": "¥48.00",
+            "price_s": "5.2折",
+            "book_img": "http://img3m0.ddimg.cn/94/25/1901087590-1_l_2.jpg"
+        },
+        {
+            "name": "吸引：与人成功交流的科学",
+            "author": "瓦妮莎·范·爱德华兹",
+            "publica_date": "2018-05-01",
+            "publishing_group": "湖南文艺出版社",
+            "price_n": "¥19.99",
+            "price_r": "¥45.00",
+            "price_s": "4.4折",
+            "book_img": "http://img3m8.ddimg.cn/82/19/1901074708-1_l_1.jpg"
+        },
+        {
+            "name": "终有一天你会懂",
+            "author": "琢磨先生",
+            "publica_date": "2018-05-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥19.99",
+            "price_r": "¥58.00",
+            "price_s": "3.4折",
+            "book_img": "http://img3m6.ddimg.cn/42/28/1901070906-1_l_2.jpg"
+        },
+        {
+            "name": "当机立断：通过“数字·事实·逻辑”做决定",
+            "author": "出口治明",
+            "publica_date": "2018-02-01",
+            "publishing_group": "江西人民出版社",
+            "price_n": "¥6.99",
+            "price_r": "¥36.00",
+            "price_s": "1.9折",
+            "book_img": "http://img3m5.ddimg.cn/96/30/1900773465-1_l_2.jpg"
+        },
+        {
+            "name": "精准自我提升（套装共3册）",
+            "author": "马克·列克劳MarcReklau琳达·科汗琳达·科汗",
+            "publica_date": "",
+            "publishing_group": "北京斯坦威图书有限责任公司",
+            "price_n": "¥78.40",
+            "price_r": "¥68.00",
+            "price_s": "11.5折",
+            "book_img": "http://img3m8.ddimg.cn/4/25/1901136208-1_l_2.jpg"
+        },
+        {
+            "name": "能力迁移",
+            "author": "乔治·安德斯",
+            "publica_date": "",
+            "publishing_group": "中信出版集团股份有限公司",
+            "price_n": "¥23.99",
+            "price_r": "¥59.00",
+            "price_s": "4.1折",
+            "book_img": "http://img3m0.ddimg.cn/41/28/1901129810-1_l_1.jpg"
+        },
+        {
+            "name": "潜伏办公室的108条心理学法则",
+            "author": "陈浩",
+            "publica_date": "",
+            "publishing_group": "中国华侨出版社",
+            "price_n": "¥0.50",
+            "price_r": "¥29.80",
+            "price_s": "0.2折",
+            "book_img": "http://img3m0.ddimg.cn/84/26/1901094510-1_l_1.jpg"
+        },
+        {
+            "name": "麦肯锡时间分配法",
+            "author": "李志洪",
+            "publica_date": "2017-01-01",
+            "publishing_group": "南海出版公司",
+            "price_n": "¥8.33",
+            "price_r": "¥35.00",
+            "price_s": "2.4折",
+            "book_img": "http://img3m8.ddimg.cn/7/7/1901086018-1_l_1.jpg"
+        },
+        {
+            "name": "聪明人的一张纸工作整理术：完美图解",
+            "author": "高桥政史",
+            "publica_date": "2017-03-01",
+            "publishing_group": "湖南文艺出版社",
+            "price_n": "¥8.99",
+            "price_r": "¥42.00",
+            "price_s": "2.1折",
+            "book_img": "http://img3m2.ddimg.cn/8/25/1900680812-1_l_1.jpg"
+        },
+        {
+            "name": "写出我心：普通人如何通过写作表达自己",
+            "author": "娜塔莉·戈德堡NatalieGoldberg",
+            "publica_date": "2016-08-01",
+            "publishing_group": "广西科学技术出版社",
+            "price_n": "¥4.89",
+            "price_r": "¥40.00",
+            "price_s": "1.2折",
+            "book_img": "http://img3m7.ddimg.cn/30/14/1900627077-1_l_2.jpg"
+        },
+        {
+            "name": "心灵鸡汤：遇见未知的自己",
+            "author": "微经典",
+            "publica_date": "2015-05-01",
+            "publishing_group": "江苏美术出版社",
+            "price_n": "¥4.35",
+            "price_r": "¥12.80",
+            "price_s": "3.4折",
+            "book_img": "http://img3m2.ddimg.cn/27/29/1900573812-1_l_2.jpg"
+        },
+        {
+            "name": "高效能家庭的7个习惯",
+            "author": "史蒂芬·柯维李耘",
+            "publica_date": "2016-05-01",
+            "publishing_group": "湖南文艺出版社",
+            "price_n": "¥6.99",
+            "price_r": "¥40.00",
+            "price_s": "1.7折",
+            "book_img": "http://img3m7.ddimg.cn/35/17/1900564217-1_l_2.jpg"
+        },
+        {
+            "name": "职场新人不可不知的98个职场秘密",
+            "author": "廖振宇",
+            "publica_date": "2011-03-01",
+            "publishing_group": "中国纺织出版社",
+            "price_n": "¥8.16",
+            "price_r": "¥33.00",
+            "price_s": "2.5折",
+            "book_img": "http://img3m8.ddimg.cn/87/34/1900546548-1_l_4.jpg"
+        },
+        {
+            "name": "男人22岁以后该做什么",
+            "author": "亦辛",
+            "publica_date": "2009-02-01",
+            "publishing_group": "中国纺织出版社",
+            "price_n": "¥7.79",
+            "price_r": "¥38.00",
+            "price_s": "2.1折",
+            "book_img": "http://img3m0.ddimg.cn/79/26/1900546540-1_l_4.jpg"
+        },
+        {
+            "name": "别让敏感害了你",
+            "author": "黄志坚",
+            "publica_date": "2015-05-01",
+            "publishing_group": "北京时代华文书局",
+            "price_n": "¥5.99",
+            "price_r": "¥35.00",
+            "price_s": "1.7折",
+            "book_img": "http://img3m4.ddimg.cn/40/33/1900512544-1_l_2.jpg"
+        },
+        {
+            "name": "秋叶:如何高效读懂一本书",
+            "author": "秋叶",
+            "publica_date": "2015-07-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥1.99",
+            "price_r": "¥40.00",
+            "price_s": "0.5折",
+            "book_img": "http://img3m3.ddimg.cn/95/4/1900465673-1_l_6.jpg"
+        },
+        {
+            "name": "人性的奥秘：曾仕强谈人性的弱点",
+            "author": "曾仕强",
+            "publica_date": "2014-11-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥2.00",
+            "price_r": "¥39.00",
+            "price_s": "0.5折",
+            "book_img": "http://img3m3.ddimg.cn/1/17/1900369153-1_l_1.jpg"
+        },
+        {
+            "name": "逻辑思维训练1200题",
+            "author": "于海娣",
+            "publica_date": "2010-02-01",
+            "publishing_group": "华文出版社",
+            "price_n": "¥2.99",
+            "price_r": "¥30.00",
+            "price_s": "1.0折",
+            "book_img": "http://img3m2.ddimg.cn/37/16/1900336222-1_l_5.jpg"
+        },
+        {
+            "name": "90天修炼气质女神",
+            "author": "苏瑾",
+            "publica_date": "2014-03-01",
+            "publishing_group": "现代出版社",
+            "price_n": "¥0.89",
+            "price_r": "¥32.00",
+            "price_s": "0.3折",
+            "book_img": "http://img3m1.ddimg.cn/88/15/1900335481-1_l_1.jpg"
+        },
+        {
+            "name": "人性的优点",
+            "author": "戴尔·卡耐基陶曚",
+            "publica_date": "2017-05-01",
+            "publishing_group": "天津人民出版社",
+            "price_n": "¥0.98",
+            "price_r": "¥28.00",
+            "price_s": "0.4折",
+            "book_img": "http://img3m3.ddimg.cn/30/11/1900695783-1_l_1.jpg"
+        },
+        {
+            "name": "世界上最伟大的推销员",
+            "author": "曼狄诺Mandino",
+            "publica_date": "2013-11-01",
+            "publishing_group": "世界知识出版社",
+            "price_n": "¥8.76",
+            "price_r": "¥17.00",
+            "price_s": "5.2折",
+            "book_img": "http://img3m0.ddimg.cn/60/17/1900633740-1_l_3.jpg"
+        },
+        {
+            "name": "极简力",
+            "author": "小野",
+            "publica_date": "2016-11-01",
+            "publishing_group": "现代出版社",
+            "price_n": "¥1.99",
+            "price_r": "¥40.00",
+            "price_s": "0.5折",
+            "book_img": "http://img3m3.ddimg.cn/37/9/1900627183-1_l_4.jpg"
+        },
+        {
+            "name": "墨菲定律",
+            "author": "李原",
+            "publica_date": "2014-01-01",
+            "publishing_group": "中国华侨出版社",
+            "price_n": "¥5.96",
+            "price_r": "¥30.00",
+            "price_s": "2.0折",
+            "book_img": "http://img3m4.ddimg.cn/88/35/1900601494-1_l_2.jpg"
+        },
+        {
+            "name": "愿你拥有被爱照亮的生命",
+            "author": "武志红",
+            "publica_date": "2015-12-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥9.99",
+            "price_r": "¥38.00",
+            "price_s": "2.6折",
+            "book_img": "http://img3m5.ddimg.cn/69/18/1900499505-1_l_3.jpg"
+        },
+        {
+            "name": "哈佛记忆课",
+            "author": "洛拉尼",
+            "publica_date": "2014-02-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥1.00",
+            "price_r": "¥30.00",
+            "price_s": "0.3折",
+            "book_img": "http://img3m2.ddimg.cn/40/3/1900452352-1_l_3.jpg"
+        },
+        {
+            "name": "蓝色思维：与幸福感相关的大脑模式与思维偏好",
+            "author": "华莱士J.尼科尔斯",
+            "publica_date": "2018-07-01",
+            "publishing_group": "九州出版社",
+            "price_n": "¥29.99",
+            "price_r": "¥45.00",
+            "price_s": "6.7折",
+            "book_img": "http://img3m1.ddimg.cn/75/15/1901086581-1_l_2.jpg"
+        },
+        {
+            "name": "你有多自律，就有多自由",
+            "author": "卡西",
+            "publica_date": "2018-06-01",
+            "publishing_group": "中国致公出版社",
+            "price_n": "¥14.99",
+            "price_r": "¥39.80",
+            "price_s": "3.8折",
+            "book_img": "http://img3m2.ddimg.cn/60/5/1901077062-1_l_2.jpg"
+        },
+        {
+            "name": "把事做得恰到好处",
+            "author": "张笑恒",
+            "publica_date": "2018-07-01",
+            "publishing_group": "天津人民出版社",
+            "price_n": "¥14.99",
+            "price_r": "¥38.00",
+            "price_s": "3.9折",
+            "book_img": "http://img3m0.ddimg.cn/58/3/1901077060-1_l_2.jpg"
+        },
+        {
+            "name": "麻省理工深度思考法",
+            "author": "平井孝志",
+            "publica_date": "2018-05-01",
+            "publishing_group": "中国华侨出版社",
+            "price_n": "¥21.60",
+            "price_r": "¥36.00",
+            "price_s": "6.0折",
+            "book_img": "http://img3m3.ddimg.cn/31/13/1901077033-1_l_2.jpg"
+        },
+        {
+            "name": "手把手教你玩脱口秀",
+            "author": "格雷格·迪安",
+            "publica_date": "2018-01-01",
+            "publishing_group": "浙江人民出版社",
+            "price_n": "¥29.99",
+            "price_r": "¥69.90",
+            "price_s": "4.3折",
+            "book_img": "http://img3m3.ddimg.cn/25/22/1901070493-1_l_3.jpg"
+        },
+        {
+            "name": "为什么精英都是方法控",
+            "author": "金武贵朱安宁",
+            "publica_date": "2018-02-01",
+            "publishing_group": "湖南文艺出版社",
+            "price_n": "¥19.99",
+            "price_r": "¥45.00",
+            "price_s": "4.4折",
+            "book_img": "http://img3m7.ddimg.cn/31/13/1901069707-1_l_1.jpg"
+        },
+        {
+            "name": "让自己更值钱",
+            "author": "博恩·崔西",
+            "publica_date": "2018-02-01",
+            "publishing_group": "中国友谊出版公司",
+            "price_n": "¥12.99",
+            "price_r": "¥42.00",
+            "price_s": "3.1折",
+            "book_img": "http://img3m9.ddimg.cn/4/22/1900783669-1_l_1.jpg"
+        },
+        {
+            "name": "跨界学习",
+            "author": "王烁",
+            "publica_date": "",
+            "publishing_group": "湖南文艺社",
+            "price_n": "¥25.99",
+            "price_r": "¥25.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m6.ddimg.cn/56/18/1901129726-1_l_1.jpg"
+        },
+        {
+            "name": "如何有效阅读(风靡全球，YouTube千万点击)",
+            "author": "藤原和博",
+            "publica_date": "",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥9.90",
+            "price_r": "¥27.99",
+            "price_s": "3.5折",
+            "book_img": "http://img3m2.ddimg.cn/23/27/1901123852-1_l_1.jpg"
+        },
+        {
+            "name": "成都姑娘",
+            "author": "李莉娟",
+            "publica_date": "",
+            "publishing_group": "湖南文艺出版社",
+            "price_n": "¥18.99",
+            "price_r": "¥38.60",
+            "price_s": "4.9折",
+            "book_img": "http://img3m6.ddimg.cn/47/25/1901094176-1_l_1.jpg"
+        },
+        {
+            "name": "超级聊天术(全新修订版)",
+            "author": "斋藤孝",
+            "publica_date": "",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥14.98",
+            "price_r": "¥42.80",
+            "price_s": "3.5折",
+            "book_img": "http://img3m7.ddimg.cn/22/16/1901091577-1_l_1.jpg"
+        },
+        {
+            "name": "麦肯锡谈判——扭转危机的55个方法",
+            "author": "宁姗",
+            "publica_date": "2016-10-01",
+            "publishing_group": "南海出版公司",
+            "price_n": "¥10.80",
+            "price_r": "¥36.00",
+            "price_s": "3.0折",
+            "book_img": "http://img3m0.ddimg.cn/97/34/1901071060-1_l_2.jpg"
+        },
+        {
+            "name": "麦肯锡精英最重视的55个高效能沟通习惯",
+            "author": "欧阳宇倩",
+            "publica_date": "2016-03-01",
+            "publishing_group": "群言出版社",
+            "price_n": "¥0.99",
+            "price_r": "¥35.00",
+            "price_s": "0.3折",
+            "book_img": "http://img3m3.ddimg.cn/88/3/1900778803-1_l_1.jpg"
+        },
+        {
+            "name": "反本能：如何对抗你的习以为常(若想改变，就要反本能！一本颠覆之...",
+            "author": "卫蓝",
+            "publica_date": "2017-08-01",
+            "publishing_group": "天地出版社",
+            "price_n": "¥9.90",
+            "price_r": "¥38.00",
+            "price_s": "2.6折",
+            "book_img": "http://img3m9.ddimg.cn/77/8/1900728599-1_l_2.jpg"
+        },
+        {
+            "name": "写给想哭的你",
+            "author": "松浦弥太郎徐萌",
+            "publica_date": "2018-07-01",
+            "publishing_group": "现代出版社",
+            "price_n": "¥15.99",
+            "price_r": "¥15.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m5.ddimg.cn/93/11/1901116695-1_l_2.jpg"
+        },
+        {
+            "name": "优秀的人,从来不会输在情绪上",
+            "author": "周颜",
+            "publica_date": "2018-07-01",
+            "publishing_group": "华中科技大学出版社",
+            "price_n": "¥15.78",
+            "price_r": "¥19.90",
+            "price_s": "7.9折",
+            "book_img": "http://img3m0.ddimg.cn/3/8/1901113140-1_l_5.jpg"
+        },
+        {
+            "name": "狼道：生活中的狼性法则",
+            "author": "罗宇",
+            "publica_date": "",
+            "publishing_group": "中国纺织出版社",
+            "price_n": "¥5.19",
+            "price_r": "¥9.84",
+            "price_s": "5.3折",
+            "book_img": "http://img3m2.ddimg.cn/55/21/1901105272-1_l_1.jpg"
+        },
+        {
+            "name": "怎样管精力 就怎样过一生",
+            "author": "奥迪尔·夏布里亚克",
+            "publica_date": "2018-08-01",
+            "publishing_group": "江苏凤凰文艺出版社",
+            "price_n": "¥9.99",
+            "price_r": "¥39.80",
+            "price_s": "2.5折",
+            "book_img": "http://img3m1.ddimg.cn/2/26/1901093141-1_l_2.jpg"
+        },
+        {
+            "name": "你坚持的原则其实害了你(日本亚马逊畅销作品！引爆思维革命的能量...",
+            "author": "午堂登纪雄",
+            "publica_date": "2018-10-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥12.99",
+            "price_r": "¥52.00",
+            "price_s": "2.5折",
+            "book_img": "http://img3m7.ddimg.cn/12/14/1901086617-1_l_2.jpg"
+        },
+        {
+            "name": "挑战：压力如何塑造我们",
+            "author": "伊恩·罗伯森",
+            "publica_date": "2018-06-01",
+            "publishing_group": "湖南文艺出版社",
+            "price_n": "¥19.99",
+            "price_r": "¥38.00",
+            "price_s": "5.3折",
+            "book_img": "http://img3m0.ddimg.cn/9/36/1901083050-1_l_1.jpg"
+        },
+        {
+            "name": "美好人生运营指南：哈佛MBA写给你的人生管理课",
+            "author": "一稼",
+            "publica_date": "2018-07-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥12.99",
+            "price_r": "¥49.00",
+            "price_s": "2.7折",
+            "book_img": "http://img3m9.ddimg.cn/41/20/1901072489-1_l_2.jpg"
+        },
+        {
+            "name": "一个人的修养，看失意时的善良",
+            "author": "陶瓷兔子",
+            "publica_date": "2018-07-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥11.40",
+            "price_r": "¥38.00",
+            "price_s": "3.0折",
+            "book_img": "http://img3m0.ddimg.cn/61/15/1901072410-1_l_2.jpg"
+        },
+        {
+            "name": "有序：关于心智效率的认知科学",
+            "author": "丹尼尔·列维汀",
+            "publica_date": "2018-04-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥16.99",
+            "price_r": "¥68.00",
+            "price_s": "2.5折",
+            "book_img": "http://img3m7.ddimg.cn/17/1/1901070287-1_l_2.jpg"
+        },
+        {
+            "name": "抗压力：逆境重生法则",
+            "author": "久世浩司",
+            "publica_date": "2016-02-01",
+            "publishing_group": "北京联合出版公司",
+            "price_n": "¥6.99",
+            "price_r": "¥32.00",
+            "price_s": "2.2折",
+            "book_img": "http://img3m9.ddimg.cn/90/24/1900773459-1_l_2.jpg"
+        },
+        {
+            "name": "我不过低配的人生",
+            "author": "雾满拦江",
+            "publica_date": "2016-10-01",
+            "publishing_group": "中国友谊出版公司",
+            "price_n": "¥7.99",
+            "price_r": "¥39.80",
+            "price_s": "2.0折",
+            "book_img": "http://img3m4.ddimg.cn/74/24/1900679294-1_l_3.jpg"
+        },
+        {
+            "name": "涂鸦思考力",
+            "author": "桑妮·布朗SunniBrown",
+            "publica_date": "2017-04-01",
+            "publishing_group": "江苏凤凰文艺出版社",
+            "price_n": "¥6.99",
+            "price_r": "¥54.90",
+            "price_s": "1.3折",
+            "book_img": "http://img3m0.ddimg.cn/58/32/1900679080-1_l_1.jpg"
+        },
+        {
+            "name": "穷查理宝典：投资理念分册",
+            "author": "查理·芒格",
+            "publica_date": "2016-08-01",
+            "publishing_group": "中信出版社",
+            "price_n": "¥49.99",
+            "price_r": "¥168.00",
+            "price_s": "3.0折",
+            "book_img": "http://img3m9.ddimg.cn/62/11/1900671659-1_l_2.jpg"
+        },
+        {
+            "name": "刘墉说话秘笈(套装共2册)(教你幽默到心田+偷偷说到心深处)",
+            "author": "刘墉",
+            "publica_date": "2016-06-01",
+            "publishing_group": "作家出版社",
+            "price_n": "¥4.71",
+            "price_r": "¥8.99",
+            "price_s": "5.2折",
+            "book_img": "http://img3m7.ddimg.cn/34/4/1900652227-1_l_4.jpg"
+        },
+        {
+            "name": "力量(修订版)",
+            "author": "朗达·拜恩王莉莉",
+            "publica_date": "2016-05-01",
+            "publishing_group": "湖南文艺出版社",
+            "price_n": "¥17.98",
+            "price_r": "¥42.00",
+            "price_s": "4.3折",
+            "book_img": "http://img3m0.ddimg.cn/28/33/1900618660-1_l_2.jpg"
+        },
+        {
+            "name": "超实用记忆力训练法",
+            "author": "吴帝德",
+            "publica_date": "2015-12-01",
+            "publishing_group": "中国纺织出版社",
+            "price_n": "¥5.99",
+            "price_r": "¥35.00",
+            "price_s": "1.7折",
+            "book_img": "http://img3m7.ddimg.cn/37/17/1900578277-1_l_2.jpg"
+        },
+        {
+            "name": "人生不设限",
+            "author": "力克·胡哲",
+            "publica_date": "2015-05-01",
+            "publishing_group": "湖北教育出版社",
+            "price_n": "¥1.99",
+            "price_r": "¥33.00",
+            "price_s": "0.6折",
+            "book_img": "http://img3m0.ddimg.cn/61/19/1900465540-1_l_2.jpg"
+        },
+        {
+            "name": "批判性思维：带你走出思维的误区",
+            "author": "布鲁克·诺埃尔·摩尔BrookeNoelMoore理查德·帕克RichardParker",
+            "publica_date": "2012-01-01",
+            "publishing_group": "机械工业出版社",
+            "price_n": "¥25.00",
+            "price_r": "¥48.00",
+            "price_s": "5.2折",
+            "book_img": "http://img3m0.ddimg.cn/97/20/1900392910-1_l_1.jpg"
+        },
+        {
+            "name": "失误：为什么我们总爱犯错？",
+            "author": "凯瑟琳·舒尔茨",
+            "publica_date": "",
+            "publishing_group": "中信出版社",
+            "price_n": "¥38.25",
+            "price_r": "¥35.40",
+            "price_s": "10.8折",
+            "book_img": "http://img3m5.ddimg.cn/71/7/1901129345-1_l_1.jpg"
+        },
+        {
+            "name": "思维变现",
+            "author": "海伦·奥德斯基",
+            "publica_date": "2019-07-01",
+            "publishing_group": "台海出版社",
+            "price_n": "¥15.99",
+            "price_r": "¥15.99",
+            "price_s": "10.0折",
+            "book_img": "http://img3m2.ddimg.cn/36/5/1901128122-1_l_1.jpg"
+        }
+    ],
+    "total": 500
+}
