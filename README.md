@@ -6,6 +6,7 @@
    3、实现了分页爬取数据的方式
    
 安装与使用：
+   1、下载或者git clone到本地，cd web-crawler
    1、npm install
-   2、node crawler运行就ok了
+   2、node crawler运行就能看到data文件夹里的books.json文件就有了我们想要的书籍信息了
 
